@@ -3,3 +3,6 @@ plugins {
 }
 
 rootProject.name = "Discogs"
+
+
+include("DiscogsDumpReader")
