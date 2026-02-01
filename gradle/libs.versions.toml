@@ -1,8 +1,27 @@
 [versions]
 kotlin = "2.3.0"
 
+klf = "1.8.3"
+
+jackson = "2.21.0"
+
+# test
+logback = "1.5.26"
+
+assertk = "0.28.1"
+
 
 [libraries]
+klf = { module = "net.codinux.log:klf", version.ref = "klf" }
+
+jackson-kotlin = { module = "com.fasterxml.jackson.module:jackson-module-kotlin", version.ref = "jackson" }
+jackson-xml = { module = "com.fasterxml.jackson.dataformat:jackson-dataformat-xml", version.ref = "jackson" }
+
+# test
+kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
+
+assertk = { module = "com.willowtreeapps.assertk:assertk", version.ref = "assertk" }
+logback = { module = "ch.qos.logback:logback-classic", version.ref = "logback" }
 
 
 [plugins]

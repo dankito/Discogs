@@ -13,5 +13,16 @@ kotlin {
 
 
 dependencies {
-    testImplementation(kotlin("test"))
+    implementation(project(":DiscogsDomain"))
+
+    implementation(libs.jackson.xml)
+    implementation(libs.jackson.kotlin)
+
+    implementation(libs.klf)
+
+
+    testImplementation(libs.kotlin.test)
+    testImplementation(libs.assertk)
+
+    testImplementation(libs.logback)
 }
