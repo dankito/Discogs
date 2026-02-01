@@ -5,6 +5,7 @@ import assertk.assertions.isGreaterThanOrEqualTo
 import net.codinux.log.logger
 import net.dankito.music.discogs.dump.test.TestData
 import java.text.DecimalFormat
+import java.util.concurrent.atomic.AtomicInteger
 import kotlin.io.path.inputStream
 import kotlin.test.Test
 
@@ -19,35 +20,47 @@ class DiscogsDumpReaderTest {
 
     @Test
     fun readArtists() {
-        var count = 0
+        val count = AtomicInteger(0)
 
         underTest.readArtists(TestData.ArtistsDumpFile.inputStream()) { artist ->
-            count++
-
-            if (count % 10_000 == 0) {
-                log.info { "Read ${formatCount(count)} artists" }
-            }
+            trackCount(count)
         }
 
-        assertThat(count).isGreaterThanOrEqualTo(9_875_997)
+        assertThat(count.get()).isGreaterThanOrEqualTo(9_875_997)
     }
 
 
     @Test
     fun readMasters() {
-        var count = 0
+        val count = AtomicInteger(0)
 
         underTest.readMasters(TestData.MastersDumpFile.inputStream()) { master ->
-            count++
-
-            if (count % 10_000 == 0) {
-                log.info { "Read ${formatCount(count)} masters" }
-            }
+            trackCount(count)
         }
 
-        assertThat(count).isGreaterThanOrEqualTo(2_510_246)
+        assertThat(count.get()).isGreaterThanOrEqualTo(2_510_246)
     }
 
+
+    @Test
+    fun readLabels() {
+        val count = AtomicInteger(0)
+
+        underTest.readLabels(TestData.LabelsDumpFile.inputStream()) { master ->
+            trackCount(count)
+        }
+
+        assertThat(count.get()).isGreaterThanOrEqualTo(61257)
+    }
+
+
+    private fun trackCount(count: AtomicInteger) {
+        val count = count.incrementAndGet()
+
+        if (count % 10_000 == 0) {
+            log.info { "Read ${formatCount(count)} masters" }
+        }
+    }
 
     private fun formatCount(count: Int): String = countFormat.format(count)
 

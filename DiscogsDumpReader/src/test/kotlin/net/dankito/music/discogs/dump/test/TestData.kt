@@ -10,4 +10,6 @@ object TestData {
     // TODO: set path to you discogs masters XML dump there. It has gzipped more than 560 MB and is therefore not included in the repository
     val MastersDumpFile = Path("build/dump/discogs_20260101_masters.xml.gz")
 
+    val LabelsDumpFile = Path("build/dump/discogs_20260101_labels.xml.gz")
+
 }

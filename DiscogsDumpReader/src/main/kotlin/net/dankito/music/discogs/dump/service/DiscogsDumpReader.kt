@@ -5,6 +5,7 @@ import com.fasterxml.jackson.dataformat.xml.JacksonXmlModule
 import com.fasterxml.jackson.dataformat.xml.XmlMapper
 import net.codinux.log.logger
 import net.dankito.music.discogs.dump.model.ArtistXmlEntity
+import net.dankito.music.discogs.dump.model.LabelXmlEntity
 import net.dankito.music.discogs.dump.model.MasterXmlEntity
 import net.dankito.music.discogs.dump.serialization.XmlSerializationConfig
 import java.io.InputStream
@@ -61,6 +62,22 @@ open class DiscogsDumpReader {
     protected open fun deserializeMaster(reader: XMLStreamReader, masterDeserialized: (MasterXmlEntity) -> Unit) = try {
         xmlMapper.readValue(reader, MasterXmlEntity::class.java)?.let { master ->
             masterDeserialized(master)
+        }
+    } catch (e: Throwable) {
+        log.error(e) { "Could not deserialize master at line ${reader.location.lineNumber}, column ${reader.location.columnNumber}" }
+        throw e
+    }
+
+
+    open fun readLabels(labelsDumpStream: InputStream, labelDeserialized: (LabelXmlEntity) -> Unit) {
+        readDump(labelsDumpStream, "label") { reader ->
+            deserializeLabel(reader, labelDeserialized)
+        }
+    }
+
+    protected open fun deserializeLabel(reader: XMLStreamReader, labelDeserialized: (LabelXmlEntity) -> Unit) = try {
+        xmlMapper.readValue(reader, LabelXmlEntity::class.java)?.let { label ->
+            labelDeserialized(label)
         }
     } catch (e: Throwable) {
         log.error(e) { "Could not deserialize master at line ${reader.location.lineNumber}, column ${reader.location.columnNumber}" }
