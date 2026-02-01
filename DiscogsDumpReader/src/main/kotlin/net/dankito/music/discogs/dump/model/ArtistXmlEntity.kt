@@ -4,7 +4,7 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty
 
 data class ArtistXmlEntity(
-    val id: Long,
+    val id: Int,
     val name: String? = null,
 
     @field:JacksonXmlProperty(localName = "realname")

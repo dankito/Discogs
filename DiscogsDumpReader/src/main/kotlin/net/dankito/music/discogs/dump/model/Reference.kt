@@ -8,7 +8,7 @@ import net.dankito.music.discogs.dump.serialization.XmlSerializationConfig
 @JacksonXmlRootElement(localName = "name")
 data class Reference(
     @param:JacksonXmlProperty(isAttribute = true)
-    val id: Long,
+    val id: Int,
 
     @param:JacksonXmlProperty(localName = XmlSerializationConfig.XmlTextElementName)
     @param:JacksonXmlText

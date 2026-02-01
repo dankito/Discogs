@@ -5,6 +5,7 @@ import com.fasterxml.jackson.dataformat.xml.JacksonXmlModule
 import com.fasterxml.jackson.dataformat.xml.XmlMapper
 import net.codinux.log.logger
 import net.dankito.music.discogs.dump.model.ArtistXmlEntity
+import net.dankito.music.discogs.dump.model.MasterXmlEntity
 import net.dankito.music.discogs.dump.serialization.XmlSerializationConfig
 import java.io.InputStream
 import java.util.zip.GZIPInputStream
@@ -37,26 +38,50 @@ open class DiscogsDumpReader {
 
 
     open fun readArtists(artistsDumpStream: InputStream, artistDeserialized: (ArtistXmlEntity) -> Unit) {
-        val input: InputStream = if (artistsDumpStream is GZIPInputStream) artistsDumpStream else GZIPInputStream(artistsDumpStream)
+        readDump(artistsDumpStream, "artist") { reader ->
+            deserializeArtist(reader, artistDeserialized)
+        }
+    }
+
+    protected open fun deserializeArtist(reader: XMLStreamReader, artistDeserialized: (ArtistXmlEntity) -> Unit) = try {
+        xmlMapper.readValue(reader, ArtistXmlEntity::class.java)?.let { artist ->
+            artistDeserialized(artist)
+        }
+    } catch (e: Throwable) {
+        log.error(e) { "Could not deserialize artist at line ${reader.location.lineNumber}, column ${reader.location.columnNumber}" }
+    }
+
+
+    open fun readMasters(mastersDumpStream: InputStream, masterDeserialized: (MasterXmlEntity) -> Unit) {
+        readDump(mastersDumpStream, "master") { reader ->
+            deserializeMaster(reader, masterDeserialized)
+        }
+    }
+
+    protected open fun deserializeMaster(reader: XMLStreamReader, masterDeserialized: (MasterXmlEntity) -> Unit) = try {
+        xmlMapper.readValue(reader, MasterXmlEntity::class.java)?.let { master ->
+            masterDeserialized(master)
+        }
+    } catch (e: Throwable) {
+        log.error(e) { "Could not deserialize master at line ${reader.location.lineNumber}, column ${reader.location.columnNumber}" }
+        throw e
+    }
+
+
+    protected open fun readDump(dumpStream: InputStream, entityElementName: String, readEntity: (XMLStreamReader) -> Unit) {
+        val input: InputStream = if (dumpStream is GZIPInputStream) dumpStream else GZIPInputStream(dumpStream)
 
         val reader = staxFactory.createXMLStreamReader(input)
         try {
             while (reader.hasNext()) {
                 val event = reader.next()
-                if (event == XMLStreamConstants.START_ELEMENT && reader.localName == "artist") {
-                    deserializeArtist(reader)?.let { artistDeserialized(it) }
+                if (event == XMLStreamConstants.START_ELEMENT && reader.localName == entityElementName) {
+                    readEntity(reader)
                 }
             }
         } finally {
             runCatching { reader.close() }
         }
-    }
-
-    private fun deserializeArtist(reader: XMLStreamReader): ArtistXmlEntity? = try {
-        xmlMapper.readValue(reader, ArtistXmlEntity::class.java)
-    } catch (e: Throwable) {
-        log.error(e) { "Could not deserialize artist at line ${reader.location.lineNumber}, column ${reader.location.columnNumber}" }
-        null
     }
 
 }

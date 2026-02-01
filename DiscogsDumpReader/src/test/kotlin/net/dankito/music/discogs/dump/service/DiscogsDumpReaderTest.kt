@@ -33,6 +33,22 @@ class DiscogsDumpReaderTest {
     }
 
 
+    @Test
+    fun readMasters() {
+        var count = 0
+
+        underTest.readMasters(TestData.MastersDumpFile.inputStream()) { master ->
+            count++
+
+            if (count % 10_000 == 0) {
+                log.info { "Read ${formatCount(count)} masters" }
+            }
+        }
+
+        assertThat(count).isGreaterThanOrEqualTo(2_510_246)
+    }
+
+
     private fun formatCount(count: Int): String = countFormat.format(count)
 
 }
