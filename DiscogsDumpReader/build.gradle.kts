@@ -17,6 +17,7 @@ dependencies {
 
     implementation(libs.jackson.xml)
     implementation(libs.jackson.kotlin)
+    implementation(libs.jackson.dateTime)
 
     implementation(libs.klf)
 

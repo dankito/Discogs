@@ -23,7 +23,7 @@ class DiscogsDumpReaderTest {
         val count = AtomicInteger(0)
 
         underTest.readArtists(TestData.ArtistsDumpFile.inputStream()) { artist ->
-            trackCount(count)
+            trackCount(count, "artist")
         }
 
         assertThat(count.get()).isGreaterThanOrEqualTo(9_875_997)
@@ -35,10 +35,22 @@ class DiscogsDumpReaderTest {
         val count = AtomicInteger(0)
 
         underTest.readMasters(TestData.MastersDumpFile.inputStream()) { master ->
-            trackCount(count)
+            trackCount(count, "master")
         }
 
         assertThat(count.get()).isGreaterThanOrEqualTo(2_510_246)
+    }
+
+
+    @Test
+    fun readReleases() {
+        val count = AtomicInteger(0)
+
+        underTest.readReleases(TestData.ReleasesDumpFile.inputStream()) { master ->
+            trackCount(count, "release")
+        }
+
+        assertThat(count.get()).isGreaterThanOrEqualTo(18_797_505)
     }
 
 
@@ -47,18 +59,18 @@ class DiscogsDumpReaderTest {
         val count = AtomicInteger(0)
 
         underTest.readLabels(TestData.LabelsDumpFile.inputStream()) { master ->
-            trackCount(count)
+            trackCount(count, "label")
         }
 
         assertThat(count.get()).isGreaterThanOrEqualTo(61257)
     }
 
 
-    private fun trackCount(count: AtomicInteger) {
+    private fun trackCount(count: AtomicInteger, entityName: String) {
         val count = count.incrementAndGet()
 
         if (count % 10_000 == 0) {
-            log.info { "Read ${formatCount(count)} masters" }
+            log.info { "Read ${formatCount(count)} ${entityName}s" }
         }
     }
 

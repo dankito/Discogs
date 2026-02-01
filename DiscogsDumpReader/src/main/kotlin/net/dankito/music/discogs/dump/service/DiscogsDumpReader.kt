@@ -3,10 +3,14 @@ package net.dankito.music.discogs.dump.service
 import com.fasterxml.jackson.databind.DeserializationFeature
 import com.fasterxml.jackson.dataformat.xml.JacksonXmlModule
 import com.fasterxml.jackson.dataformat.xml.XmlMapper
+import com.fasterxml.jackson.module.kotlin.addDeserializer
 import net.codinux.log.logger
 import net.dankito.music.discogs.dump.model.ArtistXmlEntity
 import net.dankito.music.discogs.dump.model.LabelXmlEntity
 import net.dankito.music.discogs.dump.model.MasterXmlEntity
+import net.dankito.music.discogs.dump.model.PartialDate
+import net.dankito.music.discogs.dump.model.ReleaseXmlEntity
+import net.dankito.music.discogs.dump.serialization.PartialDateDeserializer
 import net.dankito.music.discogs.dump.serialization.XmlSerializationConfig
 import java.io.InputStream
 import java.util.zip.GZIPInputStream
@@ -23,6 +27,8 @@ open class DiscogsDumpReader {
              * records, so apply this as property name on all `@JacksonXmlText` properties.
              */
             setXMLTextElementName(XmlSerializationConfig.XmlTextElementName)
+
+            this.addDeserializer(PartialDate::class, PartialDateDeserializer())
         }
     ).apply {
         findAndRegisterModules()
@@ -69,6 +75,22 @@ open class DiscogsDumpReader {
     }
 
 
+    open fun readReleases(releasesDumpStream: InputStream, releaseDeserialized: (ReleaseXmlEntity) -> Unit) {
+        readDump(releasesDumpStream, "release") { reader ->
+            deserializeRelease(reader, releaseDeserialized)
+        }
+    }
+
+    protected open fun deserializeRelease(reader: XMLStreamReader, releaseDeserialized: (ReleaseXmlEntity) -> Unit) = try {
+        xmlMapper.readValue(reader, ReleaseXmlEntity::class.java)?.let { release ->
+            releaseDeserialized(release)
+        }
+    } catch (e: Throwable) {
+        log.error(e) { "Could not deserialize release at line ${reader.location.lineNumber}, column ${reader.location.columnNumber}" }
+        throw e
+    }
+
+
     open fun readLabels(labelsDumpStream: InputStream, labelDeserialized: (LabelXmlEntity) -> Unit) {
         readDump(labelsDumpStream, "label") { reader ->
             deserializeLabel(reader, labelDeserialized)
@@ -80,7 +102,7 @@ open class DiscogsDumpReader {
             labelDeserialized(label)
         }
     } catch (e: Throwable) {
-        log.error(e) { "Could not deserialize master at line ${reader.location.lineNumber}, column ${reader.location.columnNumber}" }
+        log.error(e) { "Could not deserialize label at line ${reader.location.lineNumber}, column ${reader.location.columnNumber}" }
         throw e
     }
 
