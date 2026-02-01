@@ -6,3 +6,4 @@ rootProject.name = "Discogs"
 
 
 include("DiscogsDumpReader")
+include("DiscogsRestAPI")
