@@ -1,0 +1,20 @@
+package net.dankito.music.discogs.restapi.dto
+
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
+import net.dankito.music.discogs.restapi.serializers.EmptyStringToNullSerializer
+
+@Serializable
+data class Alias(
+    val id: Long,
+    val name: String,
+
+    @Serializable(with = EmptyStringToNullSerializer::class)
+    @SerialName("thumbnail_url")
+    val thumbnailUrl: String? = null,
+
+    @SerialName("resource_url")
+    val resourceUrl: String,
+) {
+    override fun toString() = "$id $name"
+}

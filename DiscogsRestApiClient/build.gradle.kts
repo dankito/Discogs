@@ -50,6 +50,10 @@ kotlin {
         commonMain.dependencies {
             implementation(libs.kotlinx.coroutines)
             implementation(libs.kotlinx.serialization.json)
+
+            api(libs.webClientApi)
+            implementation(libs.ktorWebClient)
+            implementation(libs.klf)
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)
