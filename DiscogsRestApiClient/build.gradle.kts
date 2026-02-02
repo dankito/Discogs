@@ -7,6 +7,10 @@ plugins {
 }
 
 
+ext["customArtifactId"] = "discogs-api-client"
+ext["projectDescription"] = "Kotlin Multiplatform REST client for Discogs"
+
+
 kotlin {
     @OptIn(ExperimentalKotlinGradlePluginApi::class)
     compilerOptions {
@@ -69,4 +73,9 @@ kotlin {
             implementation(libs.logback)
         }
     }
+}
+
+
+if (File(projectDir, "../gradle/scripts/publish-dankito.gradle.kts").exists()) {
+    apply(from = "../gradle/scripts/publish-dankito.gradle.kts")
 }

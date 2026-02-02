@@ -3,6 +3,10 @@ plugins {
 }
 
 
+ext["customArtifactId"] = "discogs-db-dump-reader"
+ext["projectDescription"] = "Reads a Discogs DB dump"
+
+
 kotlin {
     jvmToolchain(17)
 
@@ -26,4 +30,9 @@ dependencies {
     testImplementation(libs.assertk)
 
     testImplementation(libs.logback)
+}
+
+
+if (File(projectDir, "../gradle/scripts/publish-dankito.gradle.kts").exists()) {
+    apply(from = "../gradle/scripts/publish-dankito.gradle.kts")
 }

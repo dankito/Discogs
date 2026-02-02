@@ -6,4 +6,8 @@ allprojects {
     repositories {
         mavenCentral()
     }
+
+
+    ext["sourceCodeRepositoryBaseUrl"] = "github.com/dankito/Discogs"
+    ext["projectInceptionYear"] = "2025"
 }

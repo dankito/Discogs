@@ -6,6 +6,10 @@ plugins {
 }
 
 
+ext["customArtifactId"] = "discogs-domain"
+ext["projectDescription"] = "Domain model for Discogs REST API and dump reader"
+
+
 kotlin {
     jvmToolchain(17)
 
@@ -39,4 +43,9 @@ kotlin {
             api(libs.kmpDateTime)
         }
     }
+}
+
+
+if (File(projectDir, "../gradle/scripts/publish-dankito.gradle.kts").exists()) {
+    apply(from = "../gradle/scripts/publish-dankito.gradle.kts")
 }
