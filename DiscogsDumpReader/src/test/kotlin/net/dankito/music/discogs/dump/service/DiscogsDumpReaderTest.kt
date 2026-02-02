@@ -11,7 +11,7 @@ import kotlin.test.Test
 
 class DiscogsDumpReaderTest {
 
-    private val underTest = DiscogsDumpReader()
+    private val underTest = DiscogsDumpReader(true)
 
     private val countFormat = DecimalFormat("#,###")
 

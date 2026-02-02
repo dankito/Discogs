@@ -18,7 +18,9 @@ import javax.xml.stream.XMLInputFactory
 import javax.xml.stream.XMLStreamConstants
 import javax.xml.stream.XMLStreamReader
 
-open class DiscogsDumpReader {
+open class DiscogsDumpReader(
+    failOnUnknownProperties: Boolean = false,
+) {
 
     private val xmlMapper = XmlMapper(
         JacksonXmlModule().apply {
@@ -33,7 +35,7 @@ open class DiscogsDumpReader {
     ).apply {
         findAndRegisterModules()
 
-        configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, true)
+        configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, failOnUnknownProperties)
     }
 
     protected val staxFactory: XMLInputFactory = XMLInputFactory.newFactory().apply {
