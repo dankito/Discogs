@@ -1,0 +1,114 @@
+{
+  "id": 9916293,
+  "status": "Accepted",
+  "year": 2017,
+  "resource_url": "https://api.discogs.com/releases/9916293",
+  "uri": "https://www.discogs.com/release/9916293-Lorde-Green-Light",
+  "artists": [
+    {
+      "name": "Lorde",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3317315,
+      "resource_url": "https://api.discogs.com/artists/3317315",
+      "thumbnail_url": "https://i.discogs.com/eeW10uD8txrzji5GWHy5cpkDawbqeVH8VIiZu1uzgcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTcz/MTUtMTc0NTUzMTIz/OS0yNDcwLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Lorde",
+  "labels": [
+    {
+      "name": "Universal Music",
+      "catno": "none",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 23694,
+      "resource_url": "https://api.discogs.com/labels/23694",
+      "thumbnail_url": "https://i.discogs.com/oDtwgSDoEISnEoPdpSQh3FPCoVmoMTWRbDrYa4KaRfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNjk0/LTEzNzM1MzYzNjQt/NjEwMC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "File",
+      "qty": "1",
+      "descriptions": [
+        "AAC",
+        "Single"
+      ],
+      "text": "256 kbps"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 11,
+    "want": 8,
+    "rating": {
+      "count": 3,
+      "average": 3.33
+    },
+    "submitter": {
+      "username": "gsdxr",
+      "resource_url": "https://api.discogs.com/users/gsdxr"
+    },
+    "contributors": [
+      {
+        "username": "gsdxr",
+        "resource_url": "https://api.discogs.com/users/gsdxr"
+      },
+      {
+        "username": "DelishMusic",
+        "resource_url": "https://api.discogs.com/users/DelishMusic"
+      },
+      {
+        "username": "dreaming-of-hk",
+        "resource_url": "https://api.discogs.com/users/dreaming-of-hk"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2017-03-02T13:03:36-08:00",
+  "date_changed": "2017-03-06T23:53:01-08:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "master_id": 1144179,
+  "master_url": "https://api.discogs.com/masters/1144179",
+  "title": "Green Light",
+  "country": null,
+  "released": "2017-03-03",
+  "released_formatted": "03 Mar 2017",
+  "identifiers": [],
+  "videos": [],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "Green Light",
+      "duration": "3:55"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YHCOyBudmzOE4t4eYTveDBBSEHWNG7n1q_vC01_vkA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTYy/OTMtMTQ4ODQ4ODcz/My01NDk2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/YHCOyBudmzOE4t4eYTveDBBSEHWNG7n1q_vC01_vkA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTYy/OTMtMTQ4ODQ4ODcz/My01NDk2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/8ri4B8JaawUQPi_iD5RWpta09cObqCz1ron3AJFX9rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTYy/OTMtMTQ4ODQ4ODcz/My01NDk2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/8ri4B8JaawUQPi_iD5RWpta09cObqCz1ron3AJFX9rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTYy/OTMtMTQ4ODQ4ODcz/My01NDk2LmpwZWc.jpeg",
+  "estimated_weight": 0,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

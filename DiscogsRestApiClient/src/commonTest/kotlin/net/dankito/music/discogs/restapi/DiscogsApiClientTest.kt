@@ -56,6 +56,15 @@ class DiscogsApiClientTest {
     }
 
 
+    @Test
+    fun getRelease() = runTest {
+        val result = underTest.getRelease(501660)
+
+        val release = assertSuccess(result)
+        assertThat(release.title).isEqualTo("White Blood Cells")
+    }
+
+
     private fun <T> assertSuccess(result: WebClientResult<T>): T {
         assertThat(result.successful, "Web response should return success but response was ${result.statusCode}: ${result.body}").isTrue()
         assertThat(result.body).isNotNull()

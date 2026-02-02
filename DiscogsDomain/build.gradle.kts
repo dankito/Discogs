@@ -35,6 +35,8 @@ kotlin {
     sourceSets {
         commonMain.dependencies {
             implementation(libs.kotlinx.serialization.core)
+
+            api(libs.kmpDateTime)
         }
     }
 }

@@ -2,6 +2,7 @@ package net.dankito.music.discogs.dump.model
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty
+import net.dankito.music.discogs.model.PartialDate
 
 data class ReleaseXmlEntity(
     @field:JacksonXmlProperty(isAttribute = true)

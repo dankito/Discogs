@@ -2,6 +2,7 @@ package net.dankito.music.discogs.restapi
 
 import net.dankito.music.discogs.model.Artist
 import net.dankito.music.discogs.model.Master
+import net.dankito.music.discogs.model.Release
 import net.dankito.web.client.ContentTypes
 import net.dankito.web.client.KtorWebClient
 import net.dankito.web.client.RequestParameters
@@ -15,11 +16,14 @@ open class DiscogsApiClient(
     private val baseUrl: String = "https://api.discogs.com"
 ) {
 
-    suspend fun getArtist(artistId: Long): WebClientResult<Artist> =
+    suspend fun getArtist(artistId: Int): WebClientResult<Artist> =
         get("/artists/$artistId")
 
-    suspend fun getMaster(masterId: Long): WebClientResult<Master> =
+    suspend fun getMaster(masterId: Int): WebClientResult<Master> =
         get("/masters/$masterId")
+
+    suspend fun getRelease(releaseId: Int): WebClientResult<Release> =
+        get("/releases/$releaseId")
 
     private suspend inline fun <reified T : Any> get(path: String): WebClientResult<T> {
         val url = if (path.startsWith("http")) path else "$baseUrl$path"

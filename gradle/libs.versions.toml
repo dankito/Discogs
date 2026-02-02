@@ -4,6 +4,7 @@ kotlinx-coroutines = "1.10.2"
 kotlinx-serialization = "1.9.0"
 
 webClient = "1.7.2"
+kmpDateTime = "2.2.1"
 klf = "1.8.3"
 
 jackson = "2.21.0"
@@ -21,6 +22,7 @@ kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serializa
 
 webClientApi = { module = "net.dankito.web:web-client-api", version.ref = "webClient" }
 ktorWebClient = { module = "net.dankito.web:ktor-web-client", version.ref = "webClient" }
+kmpDateTime = { module = "net.dankito.datetime:kmp-datetime", version.ref = "kmpDateTime" }
 klf = { module = "net.codinux.log:klf", version.ref = "klf" }
 
 jackson-kotlin = { module = "com.fasterxml.jackson.module:jackson-module-kotlin", version.ref = "jackson" }

@@ -7,7 +7,10 @@ import net.dankito.music.discogs.serializer.EmptyStringToNullSerializer
 @Serializable
 data class ArtistCredit(
     val id: Int,
-    val name: String,
+    /**
+     * For extraArtists [name] may be `null`, for artists never.
+     */
+    val name: String? = null,
     val join: String = "",
     /**
      * It’s the exact way the artist name appears on that specific release (as printed on the label/cover), which may
@@ -20,6 +23,10 @@ data class ArtistCredit(
     @Serializable(with = EmptyStringToNullSerializer::class)
     val artistNameVariation: String? = null,
 
+    /**
+     * For extraArtists, it is an exception that [role] is `null`;
+     * for artists, it is the normal case.
+     */
     @Serializable(with = EmptyStringToNullSerializer::class)
     val role: String? = null,
 
@@ -29,8 +36,11 @@ data class ArtistCredit(
     @Serializable(with = EmptyStringToNullSerializer::class)
     val tracks: String? = null,
 
+    @SerialName("thumbnail_url")
+    val thumbnailUrl: String? = null,
+
     @SerialName("resource_url")
     val resourceUrl: String,
 ) {
-    override fun toString() = "$id $name"
+    override fun toString() = "${role ?: id} $name"
 }

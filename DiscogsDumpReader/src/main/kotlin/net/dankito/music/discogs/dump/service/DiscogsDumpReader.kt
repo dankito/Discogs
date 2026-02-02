@@ -8,10 +8,10 @@ import net.codinux.log.logger
 import net.dankito.music.discogs.dump.model.ArtistXmlEntity
 import net.dankito.music.discogs.dump.model.LabelXmlEntity
 import net.dankito.music.discogs.dump.model.MasterXmlEntity
-import net.dankito.music.discogs.dump.model.PartialDate
 import net.dankito.music.discogs.dump.model.ReleaseXmlEntity
 import net.dankito.music.discogs.dump.serialization.PartialDateDeserializer
 import net.dankito.music.discogs.dump.serialization.XmlSerializationConfig
+import net.dankito.music.discogs.model.PartialDate
 import java.io.InputStream
 import java.util.zip.GZIPInputStream
 import javax.xml.stream.XMLInputFactory

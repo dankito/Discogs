@@ -1,8 +1,12 @@
-package net.dankito.music.discogs.dump.model
+package net.dankito.music.discogs.model
+
+import kotlinx.serialization.Serializable
+import net.dankito.music.discogs.serializer.PartialDateSerializer
 
 /**
  * For a date month and/or day may not be set. So this class returns only the set parts.
  */
+@Serializable(with = PartialDateSerializer::class)
 data class PartialDate(
     val rawValue: String,
 
@@ -10,6 +14,22 @@ data class PartialDate(
     val month: Int? = null,
     val day: Int? = null
 ) : Comparable<PartialDate> {
+
+    companion object {
+        val Null = PartialDate("0", 0)
+
+        fun parse(partialDateString: String): PartialDate {
+            val parts = partialDateString.split("-")
+
+            val year = parts[0].toInt()
+            val month = parts.getOrNull(1)?.toInt()
+            val day = parts.getOrNull(2)?.toInt()
+
+            return PartialDate(partialDateString, year, month, day)
+        }
+    }
+
+
     val asString: String by lazy {
         val year = year.toString().padStart(4, '0')
 

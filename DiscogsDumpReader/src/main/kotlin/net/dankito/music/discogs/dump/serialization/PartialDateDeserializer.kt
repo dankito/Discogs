@@ -4,7 +4,7 @@ import com.fasterxml.jackson.core.JsonParser
 import com.fasterxml.jackson.databind.DeserializationContext
 import com.fasterxml.jackson.databind.deser.std.StdDeserializer
 import net.codinux.log.logger
-import net.dankito.music.discogs.dump.model.PartialDate
+import net.dankito.music.discogs.model.PartialDate
 import java.time.LocalDate
 
 open class PartialDateDeserializer : StdDeserializer<PartialDate>(PartialDate::class.java) {

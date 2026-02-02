@@ -53,6 +53,7 @@ kotlin {
             implementation(libs.kotlinx.coroutines)
             implementation(libs.kotlinx.serialization.json)
 
+            api(libs.kmpDateTime)
             api(libs.webClientApi)
             implementation(libs.ktorWebClient)
             implementation(libs.klf)
