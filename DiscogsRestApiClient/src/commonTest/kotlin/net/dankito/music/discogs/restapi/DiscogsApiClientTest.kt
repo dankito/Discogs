@@ -65,6 +65,61 @@ class DiscogsApiClientTest {
     }
 
 
+    @Test
+    fun searchArtists() = runTest {
+        val result = underTest.searchArtists("David Bowie")
+
+        val searchResult = assertSuccess(result)
+        assertThat(searchResult.results.size).isGreaterThanOrEqualTo(1)
+        assertThat(searchResult.results.first().title).isEqualTo("David Bowie")
+    }
+
+    @Test
+    fun searchMastersByQuery() = runTest {
+        val result = underTest.searchMasters("The Verve Urban Hymns")
+
+        val searchResult = assertSuccess(result)
+        assertThat(searchResult.results.size).isGreaterThanOrEqualTo(1)
+        assertThat(searchResult.results.first().title).isEqualTo("The Verve - Urban Hymns")
+    }
+
+    @Test
+    fun searchMastersByArtistNameAndReleaseTitle() = runTest {
+        val result = underTest.searchMasters("The Verve", "Urban Hymns")
+
+        val searchResult = assertSuccess(result)
+        assertThat(searchResult.results.size).isGreaterThanOrEqualTo(1)
+        assertThat(searchResult.results.first().title).isEqualTo("The Verve - Urban Hymns")
+    }
+
+    @Test
+    fun searchReleasesByQuery() = runTest {
+        val result = underTest.searchReleases("The Verve Urban Hymns")
+
+        val searchResult = assertSuccess(result)
+        assertThat(searchResult.results.size).isGreaterThanOrEqualTo(1)
+        assertThat(searchResult.results.first().title).isEqualTo("The Verve - Urban Hymns")
+    }
+
+    @Test
+    fun searchReleasesByArtistNameAndReleaseTitle() = runTest {
+        val result = underTest.searchReleases("The Verve", "Urban Hymns")
+
+        val searchResult = assertSuccess(result)
+        assertThat(searchResult.results.size).isGreaterThanOrEqualTo(1)
+        assertThat(searchResult.results.first().title).isEqualTo("The Verve - Urban Hymns")
+    }
+
+    @Test
+    fun searchLabels() = runTest {
+        val result = underTest.searchLabels("Sympathy For The Record Industry")
+
+        val searchResult = assertSuccess(result)
+        assertThat(searchResult.results.size).isGreaterThanOrEqualTo(1)
+        assertThat(searchResult.results.first().title).isEqualTo("The Verve - Urban Hymns")
+    }
+
+
     private fun <T> assertSuccess(result: WebClientResult<T>): T {
         assertThat(result.successful, "Web response should return success but response was ${result.statusCode}: ${result.body}").isTrue()
         assertThat(result.body).isNotNull()

@@ -1,0 +1,764 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 7,
+    "per_page": 50,
+    "items": 337,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=artist&query=Jack+White&page=7&per_page=50",
+      "next": "https://api.discogs.com/database/search?type=artist&query=Jack+White&page=2&per_page=50"
+    }
+  },
+  "results": [
+    {
+      "id": 278763,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/278763-Jack-White-2",
+      "title": "Jack White (2)",
+      "thumb": "https://i.discogs.com/YOXJEIOx_zfzBKXuWk8v2V5z5bc0Ar3FjoIi-_C2jas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3ODc2/My0xNjYyNjYwNTg0/LTc2NjAuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/8yXQHZxD3nF_ciYfCbKpYrkou2vls39cMhu-bfPO5s0/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3ODc2/My0xNjYyNjYwNTg0/LTc2NjAuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/278763"
+    },
+    {
+      "id": 133072,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/133072-Jack-White",
+      "title": "Jack White",
+      "thumb": "https://i.discogs.com/d8LyJ6vLTS-SBOnrpspZwXz1kQuqbRaCAJm612asccs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMzA3/Mi0xNTE2NzMzMzM4/LTUwMzcuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/wj2_0sPY9gdyB7aiKlt1t96SO7gWkP9wHAcXlfcHMj0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMzA3/Mi0xNTE2NzMzMzM4/LTUwMzcuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/133072"
+    },
+    {
+      "id": 546379,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/546379-Jack-White-3",
+      "title": "Jack White (3)",
+      "thumb": "https://i.discogs.com/xTxPLge56X0QVN4GCQPqWZYOlWPg5SyM3GJ_N2UXLds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0NjM3/OS0xMzg5NDc1MDEx/LTQ1MjQuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/I3PYCjBaaMEUx8acQz-4VcicOEJPcaBUMgqj_9ux0J0/rs:fit/g:sm/q:90/h:290/w:290/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0NjM3/OS0xMzg5NDc1MDEx/LTQ1MjQuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/546379"
+    },
+    {
+      "id": 603612,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/603612-Jack-White-4",
+      "title": "Jack White (4)",
+      "thumb": "https://i.discogs.com/3L8f9dRaxLXgV9Wh1x8tU8FcXjvD5hFPP-rh8Wi6gqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYwMzYx/Mi0xNjUxODY0NzM3/LTMwNDkuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/ZlRylLc2aigN9i-crynWLGjtVYDXMKKwjVbEpLSzCQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYwMzYx/Mi0xNjUxODY0NzM3/LTMwNDkuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/603612"
+    },
+    {
+      "id": 3196884,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/3196884-Jack-White-And-The-Bricks",
+      "title": "Jack White And The Bricks",
+      "thumb": "https://i.discogs.com/vl10259PoofGfAZVHpnDYwmZFhn4RUt02lM9cSMSl3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTY4/ODQtMTQ3NDMyODkz/OS00Nzg0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/FtTyeCsI9-HLA_GhuujBCvm_ysPJwlqEAcS0c9ucBNs/rs:fit/g:sm/q:90/h:348/w:473/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxOTY4/ODQtMTQ3NDMyODkz/OS00Nzg0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/3196884"
+    },
+    {
+      "id": 5774819,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/5774819-Jack-White-15",
+      "title": "Jack White (15)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/5774819"
+    },
+    {
+      "id": 1049644,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/1049644-Orchestra-Jack-White",
+      "title": "Orchestra Jack White",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/1049644"
+    },
+    {
+      "id": 3478944,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/3478944-Jack-White-10",
+      "title": "Jack White (10)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/3478944"
+    },
+    {
+      "id": 2694643,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/2694643-Andrew-Jack-White",
+      "title": "Andrew \"Jack\" White",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/2694643"
+    },
+    {
+      "id": 2095827,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/2095827-Jack-White-6",
+      "title": "Jack White (6)",
+      "thumb": "https://i.discogs.com/z-mvZ8kn2o9bi7g6RGjPQBIxVEpk7KHB0IdkEsm9vIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwOTU4/MjctMTM4OTQ3NTMz/NC01MDExLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/LcC37M6CXioM_gZChzUY0-5-e5dCHpUPxlwkjwEAp_M/rs:fit/g:sm/q:90/h:600/w:204/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwOTU4/MjctMTM4OTQ3NTMz/NC01MDExLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/2095827"
+    },
+    {
+      "id": 367269,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/367269-Meg-White",
+      "title": "Meg White",
+      "thumb": "https://i.discogs.com/TmA9Lqifx9HPhyZy8PKiTBfcsN00Nw0-Tbms4MvJdEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2NzI2/OS0xMTM1MjczMjAw/LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/pfNoQzExOvcUiadJ4zoGWhEcnW9kCckfutnHYk_UvEQ/rs:fit/g:sm/q:90/h:320/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2NzI2/OS0xMTM1MjczMjAw/LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/367269"
+    },
+    {
+      "id": 2645849,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/2645849-Jack-White-8",
+      "title": "Jack White (8)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/2645849"
+    },
+    {
+      "id": 1020577,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/1020577-Jack-White-His-Collegians",
+      "title": "Jack White & His Collegians",
+      "thumb": "https://i.discogs.com/3LzkqnRmllhvWSTL1DMnkYtcAh_T0tpnhPknP_oGT30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMjA1/NzctMTY1MTg3MzAx/Ny04MzM2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/nWK7OMDOjFZ4qq-I-kUPmq516m0ZalbVQSBOuAN3z-c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMjA1/NzctMTY1MTg3MzAx/Ny04MzM2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/1020577"
+    },
+    {
+      "id": 116345,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/116345-The-White-Stripes",
+      "title": "The White Stripes",
+      "thumb": "https://i.discogs.com/5JEvXK9UW1_sVVlf8zlFvSo4uxT9RNeZS-Z1UgpLXiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNjM0/NS0xNjc4NDA2NTY3/LTE3MzkuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/hUcBM8GZOD6gvhbodob9zmQCVFCD3IytMsW_L0Yklwg/rs:fit/g:sm/q:90/h:284/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNjM0/NS0xNjc4NDA2NTY3/LTE3MzkuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/116345"
+    },
+    {
+      "id": 293115,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/293115-Great-White",
+      "title": "Great White",
+      "thumb": "https://i.discogs.com/erili2qlxPPK3V5jbEXoMQ1eH9XVdgtFuQXgeXHLIws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5MzEx/NS0xNTIzNTY5NjAx/LTM1NjUuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/ep1voJMt7grDWh2Cc3Qf3fIw0ehG5D_02e3A6RkLuC0/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5MzEx/NS0xNTIzNTY5NjAx/LTM1NjUuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/293115"
+    },
+    {
+      "id": 2913063,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/2913063-Jackson-White",
+      "title": "Jackson White",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/2913063"
+    },
+    {
+      "id": 398665,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/398665-Jack-Scott",
+      "title": "Jack Scott",
+      "thumb": "https://i.discogs.com/1Wr3s1TqoNphHGV2L2v9quggcIFeUjc_AiesnlXMN_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM5ODY2/NS0xMTQ0ODMzODg3/LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Ub-ygzor_Jktr09m3VEB1pJOnqs6ZB7d6wfAtEBJ94Q/rs:fit/g:sm/q:90/h:433/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM5ODY2/NS0xMTQ0ODMzODg3/LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/398665"
+    },
+    {
+      "id": 10093192,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/10093192-Jack-White-21",
+      "title": "Jack White (21)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/10093192"
+    },
+    {
+      "id": 11044919,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/11044919-Scarlett-White",
+      "title": "Scarlett White",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/11044919"
+    },
+    {
+      "id": 5521946,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/5521946-Jack-Russells-Great-White",
+      "title": "Jack Russell's Great White",
+      "thumb": "https://i.discogs.com/9gYgbXGlyXpszKFDydHF-5MfnAHS-_QG7rj9KXp9dxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MjE5/NDYtMTU1ODQ3ODMz/OC03NjQwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/JZBvqbDG8Qd4jSfJsTHmH6mz8BONF1NGDYit335_scA/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MjE5/NDYtMTU1ODQ3ODMz/OC03NjQwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/5521946"
+    },
+    {
+      "id": 255625,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/255625-Jack-Russell-2",
+      "title": "Jack Russell (2)",
+      "thumb": "https://i.discogs.com/m-bbQAR-eNzsLdi4mQSrqcdHtI0NAMyR80HdCHMR1wI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NTYy/NS0xNDM4NTg1MDI3/LTc1OTIucG5n.jpeg",
+      "cover_image": "https://i.discogs.com/F_5z2jyye35O0dlglmqXr2feXFGZNrE3eEUN3b355xY/rs:fit/g:sm/q:90/h:805/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NTYy/NS0xNDM4NTg1MDI3/LTc1OTIucG5n.jpeg",
+      "resource_url": "https://api.discogs.com/artists/255625"
+    },
+    {
+      "id": 1103608,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/1103608-White-Lies-2",
+      "title": "White Lies (2)",
+      "thumb": "https://i.discogs.com/RpXl3zRjiQ1TjVxfdegmiAJIgelq-eNbDub8cNtexKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMDM2/MDgtMTU3MjIwMzI2/NC0zNDg3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/mQ5t6OjSrVdiSFcUHGBY_qMtv10YJgsZcfoFiIR2Mgk/rs:fit/g:sm/q:90/h:380/w:507/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMDM2/MDgtMTU3MjIwMzI2/NC0zNDg3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/1103608"
+    },
+    {
+      "id": 747248,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/747248-Jack-Pe\u00f1ate",
+      "title": "Jack Pe\u00f1ate",
+      "thumb": "https://i.discogs.com/-yfu_rpDD95tFcvsQrssqeI-yvGvMzcP1epsRdFGTqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc0NzI0/OC0xNTc1NTQ5ODQ2/LTU2MTYuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/eaToCBCEwbABq7jnI5obzdUQuO0uLwSO1majvrxo15M/rs:fit/g:sm/q:90/h:360/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc0NzI0/OC0xNTc1NTQ5ODQ2/LTU2MTYuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/747248"
+    },
+    {
+      "id": 6846454,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/6846454-Jackson-Whitefield",
+      "title": "Jackson Whitefield",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/6846454"
+    },
+    {
+      "id": 1434303,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/1434303-Jack-White-5",
+      "title": "Jack White (5)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/1434303"
+    },
+    {
+      "id": 3464726,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/3464726-Jack-White-9",
+      "title": "Jack White (9)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/3464726"
+    },
+    {
+      "id": 100893,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/100893-Jack-Perry",
+      "title": "Jack Perry",
+      "thumb": "https://i.discogs.com/NWKl41-b8pbN05zgUcV_Eehj8lI--g-ELalSySEw1qY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMDg5/My0xNDMxMjcyMjU4/LTM1OTIuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/6uPpg-jG_2NhcHma6DNbWjzLnv_jh1QYw-8UdXdXTuo/rs:fit/g:sm/q:90/h:600/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMDg5/My0xNDMxMjcyMjU4/LTM1OTIuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/100893"
+    },
+    {
+      "id": 1387892,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/1387892-Jacky-Jack-White",
+      "title": "Jacky Jack White",
+      "thumb": "https://i.discogs.com/mVQqXwZEnQnUgeo-m2ZDtntR79ncQ6PBVI7GqxD_bCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzODc4/OTItMTQ1NDAwMjQ5/NC05MDc5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/csj7h-5dOkdHeK4nyEg-1pY4CbqWCzR1tttAyQXDSjc/rs:fit/g:sm/q:90/h:376/w:252/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzODc4/OTItMTQ1NDAwMjQ5/NC05MDc5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/1387892"
+    },
+    {
+      "id": 1088230,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/1088230-Jack-Whites-Project",
+      "title": "Jack White's Project",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/1088230"
+    },
+    {
+      "id": 6368181,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/6368181-Mark-Jack-White",
+      "title": "Mark (Jack) White",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/6368181"
+    },
+    {
+      "id": 14981266,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/14981266-Henry-White-9",
+      "title": "Henry White (9)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/14981266"
+    },
+    {
+      "id": 5470034,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/5470034-Jack-Whiteside-2",
+      "title": "Jack Whiteside (2)",
+      "thumb": "https://i.discogs.com/TJG37CUa7-aafPRE9mc1Qjjix5px1W9xvY946MsnHJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0NzAw/MzQtMTY0NTA1NDAx/NS0yMzg1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/aSRKhnafZEcU3uiDpoWapoqPUztGrFfTIAlx_5T9zH8/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0NzAw/MzQtMTY0NTA1NDAx/NS0yMzg1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/5470034"
+    },
+    {
+      "id": 1585869,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/1585869-Earl-White",
+      "title": "Earl White",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/1585869"
+    },
+    {
+      "id": 4434213,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/4434213-Jack-White-And-His-All-Stars",
+      "title": "Jack White And His All-Stars",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/4434213"
+    },
+    {
+      "id": 690366,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/690366-Jack-Dalton",
+      "title": "Jack Dalton",
+      "thumb": "https://i.discogs.com/7QPlyRYnRUgjVGTbOAuMojgga6lPUpxDKKUYV-V-YG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY5MDM2/Ni0xNjQwMTI0NzMy/LTU4NjYuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/iZSQqTu6wxJvEI3Una0RX9y0q2qYky5wk8FoZnzNyow/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY5MDM2/Ni0xNjQwMTI0NzMy/LTU4NjYuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/690366"
+    },
+    {
+      "id": 6368178,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/6368178-George-Mark-Jack-White",
+      "title": "George Mark (Jack) White",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/6368178"
+    },
+    {
+      "id": 5153787,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/5153787-Jack-White-13",
+      "title": "Jack White (13)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/5153787"
+    },
+    {
+      "id": 924360,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/924360-Jack-Whites-Crazy-Gang",
+      "title": "Jack White's Crazy Gang",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/924360"
+    },
+    {
+      "id": 501428,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/501428-White-Jack",
+      "title": "White Jack",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/501428"
+    },
+    {
+      "id": 41873,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/41873-Jack-Russell",
+      "title": "Jack Russell",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/41873"
+    },
+    {
+      "id": 3538488,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/3538488-Dante-White-Aliano",
+      "title": "Dante White-Aliano",
+      "thumb": "https://i.discogs.com/e4-aRYWyuLCX28lG86Q08yPP031zXaLDtphVaYhmz4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1Mzg0/ODgtMTQ0MzEwOTQx/NS04MjAwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/CHc1qglmn8oRyEcLgUKEgIj0pz6wVEKsvWgnOQF6Fks/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1Mzg0/ODgtMTQ0MzEwOTQx/NS04MjAwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/3538488"
+    },
+    {
+      "id": 2634122,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/2634122-Jim-White-8",
+      "title": "Jim White (8)",
+      "thumb": "https://i.discogs.com/FxWjxhZe-Tdj60kNZyBBZd-K0W4QoscVobZKsJmyHi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2MzQx/MjItMTM5NDcxMjkw/Ni0zMTcxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ljqbZJRtzlhmDYWOH9fpsxms6KI4UMLhu3aBDUwJNv4/rs:fit/g:sm/q:90/h:176/w:235/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2MzQx/MjItMTM5NDcxMjkw/Ni0zMTcxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/2634122"
+    },
+    {
+      "id": 2494605,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/2494605-Lil-Jack",
+      "title": "Lil Jack",
+      "thumb": "https://i.discogs.com/zHKDMq45C7VRj7kXbvJsw3hJxX9eHSefivgrnINCXuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0OTQ2/MDUtMTQzOTI5MjAy/NC0zNjQxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/LjJ3GiKtI8ASw2wAC6Jnpp1Nk_WI8LoOwqni8bXTPjg/rs:fit/g:sm/q:90/h:373/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0OTQ2/MDUtMTQzOTI5MjAy/NC0zNjQxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/2494605"
+    },
+    {
+      "id": 5871276,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/5871276-Jackie-White-2",
+      "title": "Jackie White (2)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/5871276"
+    },
+    {
+      "id": 5175389,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/5175389-The-Pale-White",
+      "title": "The Pale White",
+      "thumb": "https://i.discogs.com/e0txTELYsS-m2GnEfJ8OuQ2MNDORtc3EgFmC2rC2qsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxNzUz/ODktMTc0NjI4NzAz/My02NDYyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/c5jPXvcvQrUJuvmqY15VpozOlg2NizavcIuKBMckOQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxNzUz/ODktMTc0NjI4NzAz/My02NDYyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/artists/5175389"
+    },
+    {
+      "id": 273679,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/273679-Jack-Off-Jill",
+      "title": "Jack Off Jill",
+      "thumb": "https://i.discogs.com/vlvKXvQ1FS_-iW3EThb5Qn9qI7Dpw3g525BNMLJ85BY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3MzY3/OS0xNDQwNzA2MzMw/LTk5ODAuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/S1D5NO6OU5pRn0RjrWlOtx5McXBuLqrs5dBXVrgWRiI/rs:fit/g:sm/q:90/h:341/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3MzY3/OS0xNDQwNzA2MzMw/LTk5ODAuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/artists/273679"
+    },
+    {
+      "id": 793484,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/793484-Jack-Wolf-Fine",
+      "title": "Jack Wolf Fine",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/793484"
+    },
+    {
+      "id": 2801618,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/2801618-The-White-Caps",
+      "title": "The White Caps",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/2801618"
+    },
+    {
+      "id": 4480265,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/4480265-Dr-Jack-White",
+      "title": "Dr. Jack White",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/4480265"
+    },
+    {
+      "id": 1447745,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/1447745-Jack-The-Bear-2",
+      "title": "Jack The Bear (2)",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/8f1cda90cfc820ca64456c6c92e33a15115e361b/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/artists/1447745"
+    }
+  ]
+}

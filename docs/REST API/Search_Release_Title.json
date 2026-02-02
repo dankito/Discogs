@@ -1,0 +1,3602 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 5,
+    "per_page": 50,
+    "items": 228,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?query=verve-urban&page=5&per_page=50",
+      "next": "https://api.discogs.com/database/search?query=verve-urban&page=2&per_page=50"
+    }
+  },
+  "results": [
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "EMI Swindon",
+        "EMI Swindon"
+      ],
+      "type": "master",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 20634,
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "LC 3098",
+        "PM 538",
+        "090",
+        "Bel/Biem/SIAE",
+        "IFPI L042",
+        "844913 2 . 2:2:1 EMI SWINDON",
+        "ifpi 1439",
+        "844913 2 . 1:2:30 EMI SWINDON",
+        "ifpi 1438",
+        "844913 2 . 2:1:13 EMI SWINDON",
+        "ifpi 1425",
+        "844913 2 . 2:4:1 EMI SWINDON",
+        "ifpi 1413",
+        "844913 2 . 2:4:5 EMI SWINDON",
+        "ifpi 1486",
+        "844913 2 . 1:2:23 EMI SWINDON",
+        "844913 2 . 1:2:16 EMI SWINDON",
+        "ifpi 1435",
+        "844913 2 . 2:1:20 EMI SWINDON",
+        "ifpi 1430",
+        "844913 2 . 2:1:19 EMI SWINDON",
+        "ifpi 1437",
+        "844913 2 . 2:4:4 EMI SWINDON",
+        "ifpi 1423",
+        "844913 2 . 2:3:1 EMI SWINDON",
+        "ifpi 1441",
+        "844913 2 . 1 EMI SWINDON 1:1:11",
+        "ifpi 1454",
+        "844913 2 . 2:2:24 EMI SWINDON",
+        "ifpi 1422",
+        "844913 2 . 1 EMI SWINDON 1:4:4",
+        "ifpi 1439",
+        "844913 2 . 1 EMI SWINDON 1:2:24",
+        "ifpi 1440",
+        "844913 2 . 1:2:41 EMI SWINDON",
+        "ifpi 1455",
+        "844913 2 . 1:2:47 EMI SWINDON",
+        "ifpi 1446",
+        "844913 2 . 2:1:8 EMI SWINDON",
+        "ifpi 1436",
+        "844913 2 . 2:3:8 EMI SWINDON",
+        "ifpi 1473",
+        "844913 2 . 2:1:11 EMI SWINDON",
+        "ifpi 1425",
+        "844913 2 . 2:1:23 EMI SWINDON",
+        "ifpi 1433",
+        "844913 2 . 2:1:19 EMI SWINDON",
+        "ifpi 1422"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/master/20634-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/20KloBG8wLBl7Zt-kxsCRLMQ7WCWV-8taj9LU3YKyRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI5/OTItMTI5NzcyMjQ2/NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QIkaF0vFw9rXyJhMc_fF4hNh8RIbqAL-yZPYLLZ4yfg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI5/OTItMTI5NzcyMjQ2/NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/20634",
+      "community": {
+        "want": 21994,
+        "have": 65893
+      }
+    },
+    {
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Virgin EMI Records",
+        "Universal UMC",
+        "Virgin Records Ltd.",
+        "Virgin Records Ltd.",
+        "Metropolis Mastering",
+        "Fullsound Mastering",
+        "Alchemy Mastering",
+        "Optimal Media GmbH",
+        "Kobalt Music Publishing Ltd.",
+        "ABKCO Music, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 9057753,
+      "barcode": [
+        "6 02547 87014 8",
+        "0602547870148",
+        "4787014 BG29233-01 A1",
+        "4787014 BG29233-01 B1  = MATT @ ALCHEMY =",
+        "4787014 BG29233-02 C1",
+        "4787014 BG29233-02 D1 = MATT @ ALCHEMY =",
+        "LC03098",
+        "BIEM/SDRM",
+        "4787013"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/9057753-The-Verve-Urban-Hymns",
+      "catno": "4787014",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/JBcaGzlAHXLRtRmtq_H2jKfC8PKWS8iQ-sFZJ3TYbyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ3NDM3NjY4/Mi04MDg4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/TLP6LW4ZgXRpjUcit-D4MAHWyl6iY6WqO665aAlrclA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTc3/NTMtMTQ3NDM3NjY4/Mi04MDg4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9057753",
+      "community": {
+        "want": 1900,
+        "have": 11204
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Band Side Labels, RIM text, 180 gram",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Virgin EMI Records",
+        "Universal UMC",
+        "Virgin Records Ltd.",
+        "Virgin Records Ltd.",
+        "Metropolis Mastering",
+        "Fullsound Mastering",
+        "Metropolis Mastering",
+        "Optimal Media GmbH",
+        "Kobalt Music Publishing Ltd.",
+        "ABKCO Music, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 27172914,
+      "barcode": [
+        "6 02547 87014 8",
+        "0602547870148",
+        "4787041A STU. ",
+        "4787014B",
+        "4787014C-2",
+        "4787014 D",
+        "LC03098",
+        "BIEM/SDRM",
+        "4787013"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/27172914-The-Verve-Urban-Hymns",
+      "catno": "4787014",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/_6-Pxmp9NjM3oQuQCXy-rlui7QryqdP_UMfXB5RHWsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTcy/OTE0LTE2ODQ4OTY1/NTItODg5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/szGbcwAt2whXgkymlIhhhF0LST1qET6QhT8ckVQACs8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTcy/OTE0LTE2ODQ4OTY1/NTItODg5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27172914",
+      "community": {
+        "want": 663,
+        "have": 2974
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Band Side Labels, RIM text, 180 gram",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2008",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Capitol Records",
+        "Virgin",
+        "Hut Recordings",
+        "From The Capitol Vaults",
+        "VC Records",
+        "Hut Recordings",
+        "VC Records",
+        "Hut Recordings",
+        "Capitol Records, LLC",
+        "Abkco Music, Inc.",
+        "EMI Music Publishing Ltd.",
+        "Capitol Mastering",
+        "Rainbo Records",
+        "Rainbo Records",
+        "Rainbo Records",
+        "Rainbo Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 1548478,
+      "barcode": [
+        "724384491314",
+        "724384491314-A DCM G1 S-66692 MASTERED BY CAPITOL",
+        "724384491314-B DCM G1 S-66693 MASTERED BY CAPITOL",
+        "724384491314-C DCM G1 S-66694 MASTERED BY CAPITOL",
+        "724384491314-D DCM G1 S-66695 MASTERED BY CAPITOL",
+        "LC 3098"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/1548478-The-Verve-Urban-Hymns",
+      "catno": "HUTLP 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/08wp-LTNTLnJSNzURULZaGevdyrO_gX8aXAdMWGwOfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg0/NzgtMTU5ODg5MDA1/Ny00MjYzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/1eL3w42j14A_mUivGDi_NxVd-QSU-Si4dHRycgVnn5E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg0/NzgtMTU5ODg5MDA1/Ny00MjYzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/1548478",
+      "community": {
+        "want": 1326,
+        "have": 4348
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 9292162,
+      "barcode": [
+        "724384491321",
+        "7 24384 49132 1",
+        "LC 3098",
+        "IFPI 0721",
+        "PM 538",
+        "090",
+        "Bel/Biem/SIAE"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/9292162-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/Nnyx3dpUKAj2SgDnju1NlRS-vwfaq3rj2ObfiWIGpoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTIx/NjItMTQ3ODA4MDYw/OC0yOTgwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/eBc7yi8Q1LFdRJT26NNeRCyI-lSULrKAqAPH_ymPJnc/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTIx/NjItMTQ3ODA4MDYw/OC0yOTgwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9292162",
+      "community": {
+        "want": 147,
+        "have": 5240
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "EMI Swindon",
+        "EMI Swindon"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 2712992,
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "LC 3098",
+        "PM 538",
+        "090",
+        "Bel/Biem/SIAE",
+        "IFPI L042",
+        "844913 2 . 2:2:1 EMI SWINDON",
+        "ifpi 1439",
+        "844913 2 . 1:2:30 EMI SWINDON",
+        "ifpi 1438",
+        "844913 2 . 2:1:13 EMI SWINDON",
+        "ifpi 1425",
+        "844913 2 . 2:4:1 EMI SWINDON",
+        "ifpi 1413",
+        "844913 2 . 2:4:5 EMI SWINDON",
+        "ifpi 1486",
+        "844913 2 . 1:2:23 EMI SWINDON",
+        "844913 2 . 1:2:16 EMI SWINDON",
+        "ifpi 1435",
+        "844913 2 . 2:1:20 EMI SWINDON",
+        "ifpi 1430",
+        "844913 2 . 2:1:19 EMI SWINDON",
+        "ifpi 1437",
+        "844913 2 . 2:4:4 EMI SWINDON",
+        "ifpi 1423",
+        "844913 2 . 2:3:1 EMI SWINDON",
+        "ifpi 1441",
+        "844913 2 . 1 EMI SWINDON 1:1:11",
+        "ifpi 1454",
+        "844913 2 . 2:2:24 EMI SWINDON",
+        "ifpi 1422",
+        "844913 2 . 1 EMI SWINDON 1:4:4",
+        "ifpi 1439",
+        "844913 2 . 1 EMI SWINDON 1:2:24",
+        "ifpi 1440",
+        "844913 2 . 1:2:41 EMI SWINDON",
+        "ifpi 1455",
+        "844913 2 . 1:2:47 EMI SWINDON",
+        "ifpi 1446",
+        "844913 2 . 2:1:8 EMI SWINDON",
+        "ifpi 1436",
+        "844913 2 . 2:3:8 EMI SWINDON",
+        "ifpi 1473",
+        "844913 2 . 2:1:11 EMI SWINDON",
+        "ifpi 1425",
+        "844913 2 . 2:1:23 EMI SWINDON",
+        "ifpi 1433",
+        "844913 2 . 2:1:19 EMI SWINDON",
+        "ifpi 1422"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/2712992-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/20KloBG8wLBl7Zt-kxsCRLMQ7WCWV-8taj9LU3YKyRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI5/OTItMTI5NzcyMjQ2/NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QIkaF0vFw9rXyJhMc_fF4hNh8RIbqAL-yZPYLLZ4yfg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI5/OTItMTI5NzcyMjQ2/NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2712992",
+      "community": {
+        "want": 482,
+        "have": 4524
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1997",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "EMI Music Publishing Ltd.",
+        "Abkco Music, Inc.",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "Metropolis Mastering",
+        "EMI Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 4274293,
+      "barcode": [
+        "7 24384 49131 4",
+        "HUTLP 45 A-1-1-I ",
+        "8449131 1A1 \u24c2",
+        "HUTLP 45 B-1-1-I",
+        "8449131 1B1",
+        "HUTLP 45 C-1-1-I",
+        "8449131 1C1",
+        "HUTLP 45 D-1-1-I",
+        "8449131 1D1 \u24c2",
+        "LC 3098",
+        "PM 264"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/4274293-The-Verve-Urban-Hymns",
+      "catno": "HUTLP 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/9m_xWMMFHeRHVnJVWRV5Yqda9BQ7qqJmAAgzS1EfjEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzQy/OTMtMTQwMjIyOTA3/OS04MTM0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/bY_U2SG_5SnXudsGEdUQJTlijpE-EGgScN42HWZLQvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzQy/OTMtMTQwMjIyOTA3/OS04MTM0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4274293",
+      "community": {
+        "want": 1437,
+        "have": 1558
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Band Side Labels",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10359,
+      "type": "artist",
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": null,
+      "master_url": null,
+      "uri": "/artist/10359-The-Verve",
+      "title": "The Verve",
+      "thumb": "https://i.discogs.com/J9m91m0_TfBYv3U2O7brOAKNCbwRysMIIEAOuHAGQls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMzU5/LTE2MDE4MTk5NTEt/NjEwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pA_BNyhCOjB5xSbfY5uQo4_DD4LSSe2PFPPB9leYKKQ/rs:fit/g:sm/q:90/h:444/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMzU5/LTE2MDE4MTk5NTEt/NjEwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/artists/10359"
+    },
+    {
+      "country": "Europe",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 14733742,
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "Arvato"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "LC 3098",
+        "Bel/Biem",
+        "PM 538",
+        "090",
+        "[Universal logo x 4]  arvato 56071776/00724384491321 21",
+        "IFPI LP 73",
+        "IFPI 0789",
+        "[Universal logo x 4] arvato 56071776/00724384491321 21",
+        "IFPI LP 73",
+        "IFPI 0710",
+        "[Universal logo x 4] arvato 56061776/00724384491321 21",
+        "IFPI LP 73",
+        "IFPI 0716"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/14733742-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/iZ_7Tq-IaMGXcFOCzfocVgHkg4eofY3u8A-K9IxN0hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMz/NzQyLTE1ODA1NTkx/MzYtNzc4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9MdrKTzvo1nS-8PAvwgnIWHJOQ536Ke1TT1rAqFDcbA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMz/NzQyLTE1ODA1NTkx/MzYtNzc4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14733742",
+      "community": {
+        "want": 98,
+        "have": 3824
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Arvato Pressing",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Repress"
+      ],
+      "label": [
+        "Virgin EMI Records",
+        "Universal UMC",
+        "Virgin Records Ltd.",
+        "Virgin Records Ltd.",
+        "Kobalt Music Publishing Ltd.",
+        "Microdot",
+        "Alchemy Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 12687013,
+      "barcode": [
+        "6 02567 91310 8",
+        "602567913108",
+        "4787014 BG29233-01 A1",
+        "4787014 BG29233-01 B1 = MATT @ ALCHEMY =",
+        "4787014 BG29233-02 C1",
+        "4787014 BG29233-02 D1 = MATT @ ALCHEMY =",
+        "BIEM / SDRM",
+        "LC03098",
+        "4787014 1T BG29233-01 A1",
+        "4787014 1Ir BG29233-01 B1 = MATT @ ALCHEMY =",
+        "4787014 BG29233-02 C1",
+        "4787014 BG29233-02 D1 = MATT @ ALCHEMY =  1="
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/12687013-The-Verve-Urban-Hymns",
+      "catno": "4787014",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/Eo9x0rGgMzW4i-6vr36fYAGytTZgRu8_bdY2-UalVkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg3/MDEzLTE1NDYzNDc3/OTQtNTMzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NmOGZ5D7Vbg25hVdtNUhfdhxSxEhLbayFEl6Zmi1c6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg3/MDEzLTE1NDYzNDc3/OTQtNTMzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12687013",
+      "community": {
+        "want": 1095,
+        "have": 2960
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1997",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Records",
+        "EMI Music Publishing Ltd.",
+        "Abkco Music, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 445878,
+      "barcode": [
+        "724384491314",
+        "7 24384 49131 4",
+        "LC3098",
+        "7243 8 44914 1 3",
+        "7243 8 44917 1 0",
+        "HUTLP 45  A-1-1-|",
+        "HUTLP 45  B-1-1-|",
+        "HUTLP 45  C-1-1-|",
+        "HUTLP 45  D-1-1-|"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/445878-The-Verve-Urban-Hymns",
+      "catno": "HUTLP 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/qhwrSinnJir6PuxvFCQO9fyatdPhN1L2cRTmfGQDDFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTg3/OC0xMjY1NDA5MDIx/LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/7nLuLVb1oYvbR6dHVI4jhkITup4VbhhHHx5MisEIdGo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTg3/OC0xMjY1NDA5MDIx/LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/445878",
+      "community": {
+        "want": 1989,
+        "have": 2225
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Black Side Labels",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Hut Recordings",
+        "Virgin",
+        "EMI Music Publishing Ltd.",
+        "Abkco Music, Inc.",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "Metropolis Mastering",
+        "EMI Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 8139920,
+      "barcode": [
+        "7 24384 49131 4",
+        "724384491314",
+        "LC 3098",
+        "HUTLP 45 A-1-1-I  8449131 1A1 \u24c2",
+        "HUTLP 45 B-1-1-I 8449131 1B1",
+        "HUTLP 45 C-1-1-I 8449131 1C1",
+        "HUTLP 45 D-1-1-I 8449131 1D1 \u24c2",
+        "PM 264",
+        "7243 8 44914 1 3",
+        "7243 8 44917 1 0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/8139920-The-Verve-Urban-Hymns",
+      "catno": "HUTLP 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/jLjUXpvrwc1SIgUaO5l_WYLRkDPzc0L2H7WjPYvfi-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzk5/MjAtMTQ1NTk2ODA0/MC01NDgzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Klw1nXJsRu5eHvbyyHQfbRnDb9WNCPy7zKJzXBdu8qM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzk5/MjAtMTQ1NTk2ODA0/MC01NDgzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8139920",
+      "community": {
+        "want": 1483,
+        "have": 1185
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Band Side Labels, RIM text",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Virgin Music, Inc.",
+        "Virgin Records America, Inc.",
+        "Virgin Records America, Inc.",
+        "EMI MFG.",
+        "EMI MFG."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Britpop"
+      ],
+      "id": 1136184,
+      "barcode": [
+        "7 2438-44913-2 1",
+        "0724384491321",
+        "ASCAP",
+        "724384491321 \u00b7 1-2-11 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "IFPI 166C",
+        "724384491321 \u00b7 1-1-5 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1637",
+        "724384491321 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1674",
+        "724384491321 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 166A",
+        "724384491321 \u00b7 1-1-31 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1672",
+        "724384491321 \u00b7 1-1-10 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1637",
+        "724384491321 \u00b7 1-1-15 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1626",
+        "724384491321 \u00b7 1-1-1 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1671",
+        "724384491321 \u00b7 1-1-6 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1650",
+        "724384491321 \u00b7 1-1-9 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1650",
+        "724384491321 \u00b7 1-1-1 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1633",
+        "724384491321 \u00b7 1-1-4 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1659",
+        "724384491321 \u00b7 1-1-1 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 167A",
+        "724384491321 \u00b7 1-1-4 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1652",
+        "724384491321 \u00b7 1-2-16 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1636",
+        "724384491321 \u00b7 1-1-4 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 165Q",
+        "724384491321 \u00b7 1-1-25 MASTERED BY EMI MFG.",
+        "IFPI L043",
+        "ifpi 1656"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/1136184-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/kdn3EPssYgNbUVGffLu-zSYzHWebFf1p3gWjlKHQgSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/ODQtMTE5NDk5Nzc1/MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/X1kzxb6mUwCwdDHYpGCZJkAfJdmOPjETJ3v5PNRzKUQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/ODQtMTE5NDk5Nzc1/MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/1136184",
+      "community": {
+        "want": 229,
+        "have": 3135
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Music Publishing Ltd.",
+        "Abkco Music, Inc.",
+        "Metropolis Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 9285618,
+      "barcode": [
+        "7 24384 49131 4",
+        "8449131 3A",
+        "8449131-2B HUTLP 45",
+        "8449131-2C HUTLP 45",
+        "8449131-2C\u0336D HUTLP 45",
+        "LC 3098",
+        "PM 264"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/9285618-The-Verve-Urban-Hymns",
+      "catno": "HUTLP 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/2SjkOJ3pPH87TcxiiFm-DL_ueoB0GIb2x4X8PlC0w1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODU2/MTgtMTQ4MTkyODc3/OS0zNTg3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/CBUjQ977sX4RpmF_rcmkB18UFz5iMg0HLG30ILlMdc4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODU2/MTgtMTQ4MTkyODc3/OS0zNTg3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9285618",
+      "community": {
+        "want": 587,
+        "have": 1626
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Band Side Labels",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "Hut Recordings",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "EMI Uden",
+        "EMI Uden",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop",
+        "Pop Rock"
+      ],
+      "id": 368250,
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "Bel/Biem/SIAE",
+        "LC 3098",
+        "090",
+        "PM 538",
+        "EMI UDEN 8449132 @ 1 1-8-22-NL",
+        "EMI UDEN 8449132 @ 1 1-5-28-NL",
+        "EMI UDEN 8449132 @ 1 1-9-5-NL",
+        "EMI UDEN 8449132 @ 1 1-7-13-NL",
+        "EMI UDEN 8449132 @ 1 1-7-13-NL",
+        "EMI UDEN 8449132 @ 1 1-1-20-NL",
+        "EMI UDEN 8449132 @ 1 1-9-8-NL",
+        "EMI UDEN 8449132 @ 1 1-9-8-NL",
+        "EMI UDEN 8449132 @ 1 1-5-1-NL",
+        "EMI UDEN 8449132 @ 1 1-7-10-NL",
+        "EMI UDEN 8449132 @ 1 1-8-22-NL",
+        "EMI UDEN 8449132 @ 1 1-7-27-NL",
+        "EMI UDEN 8449132 @ 1 1-5-6-NL",
+        "EMI UDEN 8449132 @ 1 1-7-29-NL",
+        "EMI UDEN 8449132 @ 1 1-7-31-NL",
+        "EMI UDEN 8449132  @ 1 1-8-9-NL",
+        "EMI UDEN 8449132  @ 1 1-6-3-NL",
+        "EMI UDEN 8449132  @ 1 1-9-14-NL",
+        "EMI UDEN 8449132  @ 1 1-5-5-NL",
+        "EMI UDEN 8449132  @ 1 1-9-1-NL",
+        "EMI UDEN 8449132  @ 1 1-6-26-NL",
+        "EMI UDEN 8449132 @ 1 1-10-2-NL",
+        "EMI UDEN 8449132 @ 1 1-7-3-NL",
+        "EMI UDEN 8449132 @ 1 1-5-15-NL",
+        "EMI UDEN 8449132 @ 1 1-8-8-NL",
+        "EMI UDEN 8449132 @ 1 1-7-16-NL",
+        "EMI UDEN 8449132 @ 1 1-1-10-NL",
+        "EMI UDEN 8449132 @ 1 1-9-9-NL",
+        "EMI UDEN 8449132 @ 1 1-9-8-NL",
+        "EMI UDEN 8449132 @ 1 1-1-28-NL",
+        "EMI UDEN 8449132 @ 1 1-4-25-NL",
+        "EMI UDEN 8449132 @ 1 1-5-20-NL",
+        "EMI UDEN 8449132 @ 1 1-6-8-NL",
+        "EMI UDEN 8449132 @ 1 1-7-12-NL",
+        "EMI UDEN 8449132 @ 1 1-7-1-NL",
+        "EMI UDEN 8449132 @ 1 113-NL",
+        "IFPI L047",
+        "ifpi 1593",
+        "none",
+        "ifpi 1572",
+        "ifpi 15AE",
+        "ifpi 15CB",
+        "ifpi 155D",
+        "ifpi 15AE",
+        "ifpi 15D9",
+        "ifpi 1521",
+        "ifpi 15CF",
+        "ifpi 1566",
+        "ifpi 1531",
+        "ifpi 1521",
+        "ifpi 152F",
+        "ifpi 155D",
+        "ifpi 15AD",
+        "ifpi 159C",
+        "ifpi 15BA",
+        "ifpi 1595",
+        "ifpi 1580",
+        "ifpi 15CD",
+        "ifpi 1534",
+        "ifpi 15AD",
+        "ifpi 15G5",
+        "ifpi 1595",
+        "ifpi 1521",
+        "ifpi 1516",
+        "ifpi 1543",
+        "ifpi 15EA",
+        "ifpi 1531",
+        "ifpi 159C",
+        "ifpi 15C5",
+        "ifpi 15A1",
+        "ifpi 152C",
+        "ifpi 154A",
+        "ifpi 151A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/368250-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/jL7BepKK6m7rPQpFena1b9GiEOq8LJvO5FNMYduh_XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODI1/MC0xNjUyNzI2Nzgw/LTg5OTQuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/2Wc596xPcyziNRGEMoLRsjeCwyw8VOnWZnYuMVNT3Z4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODI1/MC0xNjUyNzI2Nzgw/LTg5OTQuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/368250",
+      "community": {
+        "want": 231,
+        "have": 3656
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1997",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Hut Recordings",
+        "Hut Recordings",
+        "Virgin",
+        "ABKCO Music, Inc.",
+        "EMI Music Publishing Ltd.",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "Metropolis Mastering",
+        "Microdot"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 3416731,
+      "barcode": [
+        "3098",
+        "7 24384 49241 0",
+        "7 24384 49131 4",
+        "7243 8 44913 1 4",
+        "7243 8 44914 1 3",
+        "7243 8 44917 1 0",
+        "HUTLP 45 A-1-1-I \u24c2",
+        "HUTLP 45 B-1-1-I",
+        "HUTLP 45 C-1-1-I",
+        "HUTLP 45 D-1-1-I \u24c2",
+        "PM 264"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/3416731-The-Verve-Urban-Hymns",
+      "catno": "HUTLPX45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/BmQ92pZIk4qiniYffWNBLsMFcocOlhJ2uaVaIFY3IJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY3/MzEtMTM3NTg0MDU0/NS02NzkyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/UU0jWErfLe6Fwe_9MqEOkR0tSJ7tdunM86ArTLOzqjc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTY3/MzEtMTM3NTg0MDU0/NS02NzkyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3416731",
+      "community": {
+        "want": 1191,
+        "have": 933
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Mailing Sleeve",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "Box Set",
+        "Deluxe Edition",
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered",
+        "Vinyl",
+        "LP",
+        "Compilation",
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Virgin EMI Records",
+        "UMC",
+        "Metropolis Mastering",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 10784262,
+      "barcode": [
+        "602557562446",
+        "00602557562460-A 5756246 A1 PHD 157370E1/A ",
+        "00602557562460-B 5756246 B1 PHD 157370E2/A1 ",
+        "00602557562477-A 5756247 A1 PHD 157370E3/A ",
+        "00602557562477-B 5756247 B1 PHD 157370E4/A ",
+        "00602557562545-A 5756254 A1 PHD 157758E1/A",
+        "00602557562545-B 5756254 B1 PHD 157758E2/A1",
+        "00602557562521-A 5756252 A1 PHD 157758E3/A",
+        "00602557562521-B 5756252B1 PHD 157758E4/A [Metropolis Mastering Stamp]",
+        "00602557562569-A 5756256 A1 PHD 157759E1/A",
+        "00602557562569-B 5756256 B1 157759E2/A",
+        "00602557562576-A 5756257 A1 PHD 157759E3/A",
+        "00602557562576-B 5756257 B1 [Metropolis Mastering Stamp] 157759E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/10784262-The-Verve-Urban-Hymns",
+      "catno": "5756244",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/CAlzcJ4cuHFibHfoaG2pwbXwA44RAGpQ3q8ztKAJeFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/MjYyLTE2NzYzOTIw/NjItMTU2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LIIJJwiHFl3NHN3d8sEiQNgZQNtixa4LDDve0VIVCgo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/MjYyLTE2NzYzOTIw/NjItMTU2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10784262",
+      "community": {
+        "want": 712,
+        "have": 1289
+      },
+      "format_quantity": 6,
+      "formats": [
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Deluxe Edition"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Virgin Music Canada",
+        "EMI MFG.",
+        "EMI Music Canada"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 480909,
+      "barcode": [
+        "7 2438449132 1",
+        "724384491321CA MASTERED BY EMI MFG. ",
+        "IFPI L043",
+        "IFPI 1F05",
+        "IFPI 1F02",
+        "IFPI 1F04"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/480909-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/scDF-9lk1Sj52bk8iipZXGT3E_31UNy3o6tyUVzhjPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDkw/OS0xMjkwMDM1MDk1/LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/HB1Z9zdaeIT2mrEzPzNAVAlWXGKSP_0dWUNKilpO1Uo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDkw/OS0xMjkwMDM1MDk1/LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/480909",
+      "community": {
+        "want": 130,
+        "have": 963
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australasia",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "Digital Audio Technologies Australia",
+        "EMI Music Group Australasia",
+        "EMI Music Group Australasia"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Britpop"
+      ],
+      "id": 1820607,
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "Bel/Biem/SIAE",
+        "[Digital Audio Technologies Australia logo] D.A.T.A. IFPIL311 8449132 C",
+        "IFPI L311",
+        "ifpi 2661",
+        "[Digital Audio Technologies Australia logo] D.A.T.A. IFPIL311  8449132 H E4",
+        "IFPI L311",
+        "ifpi 2661",
+        "LC 3098",
+        "PM 538",
+        "090"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/1820607-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/9tAxd0t26z9T_gIGMwLX90YHDw7ltBCHj7CsJQHCVNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA2/MDctMTI0NTU2NjI3/Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PkktlbLd-DEcHyhrofkkw_txPtEB8KeSx9_VTKoUfxc/rs:fit/g:sm/q:90/h:494/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA2/MDctMTI0NTU2NjI3/Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/1820607",
+      "community": {
+        "want": 121,
+        "have": 1040
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Virgin"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 4012656,
+      "barcode": [
+        "7 24384 49132 1",
+        "ifpi 1636"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/4012656-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/Q_WKKY4eJgugIrcBXo9jzA9owX5lvILcQThsIRCfrg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTI2/NTYtMTM1MjMwNDAx/MS04NTgxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/UCZTfL4nS_MG9mcjyt__5mYKgDdcGJoveLZnLjPajwE/rs:fit/g:sm/q:90/h:467/w:470/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTI2/NTYtMTM1MjMwNDAx/MS04NTgxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4012656",
+      "community": {
+        "want": 118,
+        "have": 688
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "Hut Recordings",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "Hut Recordings",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "EMI Uden",
+        "EMI Italiana S.p.A. Pressing Plant"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 4143877,
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "Bel/Biem/SIAE",
+        "LC 3098",
+        "PM 538",
+        "070",
+        "EMI UDEN 8449132 @ 1 ",
+        "IFPI L047",
+        "IFPI 2517",
+        "EMI UDEN 8449132 @ 1 ",
+        "IFPI L047",
+        "IFPI 2509",
+        "EMI UDEN 8449132 @ 1 1-9-22-NL",
+        "IFPI L047",
+        "IFPI 2525",
+        "EMI UDEN 8449132 @ 1",
+        "IFPI L047",
+        "IFPI 2521",
+        "EMI UDEN 8449132 @ 1",
+        "IFPI L047",
+        "IFPI 2516",
+        "EMI UDEN 8449132 @ 1 1-9-21-NL",
+        "IFPI L047",
+        "IFPI 2531",
+        "EMI UDEN 8449132 @ 1",
+        "IFPI L047",
+        "IFPI 2518",
+        "EMI UDEN 8449132 @ 1 1-9-21-NL",
+        "IFPI L047",
+        "IFPI 2527",
+        "EMI UDEN 8449132 @ 1",
+        "IFPI L047",
+        "IFPI 2515",
+        "EMI UDEN 8449132 @ 1 1-9-22-NL",
+        "IFPI L047",
+        "IFPI 2527",
+        "EMI UDEN 8449132 @ 1 1-9-22-NL",
+        "IFPI L047",
+        "IFPI 2513",
+        "EMI UDEN 8449132 @ 1",
+        "IFPI L047",
+        "ifpi 2506",
+        "EMI UDEN 8449132 @ 1 ",
+        "IFPI L047",
+        "ifpi 2513",
+        "EMI UDEN 8449132 @ 1 ",
+        "IFPI L047",
+        "ifpi 2509",
+        "EMI UDEN 8449132 @ 1 ",
+        "IFPI L047",
+        "ifpi 2502",
+        "EMI UDEN 8449132 @ 1 1-9-20-NL",
+        "IFPI L047",
+        "IFPI 2533",
+        "EMI UDEN 8449132 @ 1 ",
+        "IFPI L047",
+        "IFPI 2519"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/4143877-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/4HY1ZLf-dCKxHTVWnDqB60I9VMX4ohqIqT70OMDjtuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDM4/NzctMTM1Njc3NzUz/NC0zODk3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/z49WzsHcEN1U04BoCYbgkUXAKfWFmPSS3cvc9LZJ4Ec/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDM4/NzctMTM1Njc3NzUz/NC0zODk3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4143877",
+      "community": {
+        "want": 139,
+        "have": 914
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "EMI Uden"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 9047799,
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "Bel/Biem/SIAE",
+        "LC 3098",
+        "PM 538",
+        "070",
+        "EMI UDEN 8449132 @ 1 ",
+        "IFPI L047",
+        "IFPI 2516",
+        "EMI UDEN 8449132 @ 1",
+        "IFPI L047",
+        "IFPI 2519",
+        "EMI UDEN 8449132 @ 1",
+        "IFPI L047",
+        "IFPI 2518",
+        "EMI UDEN 8449132 @ 1",
+        "IFPI L047 ",
+        "ifpi 2511"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/9047799-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/gGlfp7u4ZbecffVGkQkSnYBuSGiVo9VtpM56b9bHuBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDc3/OTktMTQ3Mzk2NDkx/MC02NzA5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/1JZytSXtuAJG2_cIVAGpJMyPsWIAgEXqOyKUdaDAsZ4/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDc3/OTktMTQ3Mzk2NDkx/MC02NzA5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9047799",
+      "community": {
+        "want": 128,
+        "have": 900
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Remastered",
+        "CD",
+        "Compilation",
+        "CD",
+        "DVD",
+        "DVD-Video",
+        "NTSC",
+        "Box Set",
+        "Remastered"
+      ],
+      "label": [
+        "Virgin EMI Records",
+        "UMC",
+        "Virgin Music Ltd.",
+        "Virgin Music Ltd.",
+        "Spectrum Music",
+        "Haigh Hall",
+        "9:30 Club",
+        "Brixton Academy",
+        "Manchester Academy",
+        "Haigh Hall",
+        "GZ Media",
+        "GZ Media",
+        "GZ Media",
+        "GZ Media",
+        "GZ Media",
+        "GZ Media",
+        "Technicolor",
+        "Technicolor"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 10783078,
+      "barcode": [
+        "6 02557 56236 1",
+        "BIEM/SDRM",
+        "LC03098",
+        "00602557562347 / 5756234",
+        "00602557562590 / 5756259",
+        "00602557562606 / 5756260",
+        "00602557562613 / 5756261",
+        "00602557562620 / 5756262",
+        "00602557562644 / 5756264",
+        "[Universal logo] D70122 00602557562347/CD1",
+        "IFPI LD02",
+        "IFPI 5J35",
+        "[Universal logo] D70420 00602557562590/CD2",
+        "IFPI LD02",
+        "IFPI 5J05",
+        "[Universal logo] D70121 00602557562606/CD3",
+        "IFPI LD02",
+        "IFPI 5J05",
+        "[Universal logo] D70104 00602557562613/CD4",
+        "IFPI LD02",
+        "IFPI 5J54",
+        "[Universal logo] D70124 00602557562620/CD5",
+        "IFPI LD02",
+        "IFPI 5J44",
+        "[Universal logo] DTP81960 01 644GZR0/L0",
+        "[Universal logo] DTP81961 01 644GZR0/L1",
+        "IFPI LR76",
+        "IFPI LR77",
+        "IFPI UG20",
+        "IFPI UGE5"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/10783078-The-Verve-Urban-Hymns",
+      "catno": "5756236",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/PjrQWiqPrWGC06P0bCvId5XnQtdjbNlgu3Cb4V-hbJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgz/MDc4LTE2OTc4MTYx/ODYtMzE1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fsMRbwjZlYLzTlq4tCdy7I1DVpn8mAAhPn9Jkzc_VTc/rs:fit/g:sm/q:90/h:790/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgz/MDc4LTE2OTc4MTYx/ODYtMzE1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10783078",
+      "community": {
+        "want": 294,
+        "have": 838
+      },
+      "format_quantity": 6,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Compilation"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "3"
+        },
+        {
+          "name": "DVD",
+          "qty": "1",
+          "descriptions": [
+            "DVD-Video",
+            "NTSC"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "text": "Super Deluxe Edition",
+          "descriptions": [
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album",
+        "Club Edition"
+      ],
+      "label": [
+        "Virgin Records America, Inc.",
+        "BMG Direct Marketing, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Britpop"
+      ],
+      "id": 2878479,
+      "barcode": [
+        "7 2438-44913-2 1",
+        "724384491321 MASTERED BY EMI MFG."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/2878479-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/vVj8ObVQbSN9T8zNt54H15SN9hJBFVlPp-AqHlR--Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg0/NzktMTMzNjkzOTUz/OS00NDYzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/WU7ouuaf0dYXMxO1TcHOAntdgvRftJb1Gl_YvGUF0pM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzg0/NzktMTMzNjkzOTUz/OS00NDYzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2878479",
+      "community": {
+        "want": 131,
+        "have": 591
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Club Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "style": [
+        "Britpop"
+      ],
+      "id": 14189932,
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Virgin Music, Inc.",
+        "Virgin Records America, Inc.",
+        "Virgin Records America, Inc.",
+        "Cinram, Richmond, IN"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 2438-44913-2 1",
+        "7304 724384491321 E40801-11",
+        "IFPI 6100",
+        "L383 7304 724384491321 E40801-11 A   M1S3",
+        "L383",
+        "IFPI 6100"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/14189932-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/Dw0xKOcW3ie30PvH4O_BkVufsT1Um1MYsH82mACwUzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/OTMyLTE1Njk1NTUy/NjYtNjU0My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rll8TEokRAFANjTnDNNTswMqyViVru5QztvdTz8ayOI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/OTMyLTE1Njk1NTUy/NjYtNjU0My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14189932",
+      "community": {
+        "want": 83,
+        "have": 700
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Hut Recordings",
+        "Virgin",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "EMI Uden"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 2344817,
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "LC 3098",
+        "Bel/BIEM",
+        "PM 538",
+        "090",
+        "EMI UDEN 8449132 @ 1",
+        "EMI UDEN 8449132 @ 1 1:1:6 NL",
+        "EMI UDEN 8449132 @ 1 1-1-8-NL",
+        "EMI UDEN 8449132 @ 1 1-4-25-NL",
+        "EMI UDEN 8449132 @ 1 1-1-29-NL",
+        "EMI UDEN 8449132 @ 1 1-8-18-NL",
+        "EMI UDEN 8449132 @ 1 1-1-14-NL",
+        "EMI UDEN 8449132 @ 1 1-8-26-NL",
+        "EMI UDEN 8449132 @ 1: 1-1-6-NL",
+        "IFPI L047",
+        "IFPI 1523",
+        "[missing]",
+        "IFPI 154C",
+        "IFPI 155D",
+        "ifpi 1547",
+        "IFPI 1540",
+        "ifpi 1592",
+        "ifpi 15BF",
+        "ifpi 15B0",
+        "ifpi 15A0",
+        "ifpi 15C5",
+        "ifpi 159C",
+        "ifpi 1556",
+        "ifpi 1595",
+        "ifpi 1516"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/2344817-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/PK548E3TwtojYOtegGK2zVMBt3wmoglg4qNPq3cClgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDQ4/MTctMTI3ODQyODMx/Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/nbMBQkBa00LcQ4fUXDAqHaEpPnIe9OroYiwsipun4p4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDQ4/MTctMTI3ODQyODMx/Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2344817",
+      "community": {
+        "want": 136,
+        "have": 698
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Hut Recordings",
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "EMI Swindon"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 6058686,
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "LC 3098",
+        "090",
+        "PM 538",
+        "bel/BIEM / SIAE",
+        "844913 2 . 1:1:7 : EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1440",
+        "844913 2 . 1:1:32 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1437",
+        "844913 2 . 1:2:20:EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1429",
+        "844913 2 . 1:2:17 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1448",
+        "844913 2 . 1:2:13 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1438",
+        "844913 2 . 1:1:33 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1445",
+        "844913 2 . 1:2:16 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1446",
+        "844913 2 . 1:1:12 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1438",
+        "844913 2 . 1:3:1 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1441",
+        "844913 2 . 1:1:18 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1426",
+        "844913 2 . 1:2:12 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1466",
+        "844913 2 . 1:2:10 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1438",
+        "844913 2 . 1:3:1 EMI SWINDON",
+        "IFPI L042",
+        "ifpi 1421",
+        "844913 2 . 1 EMI SWINDON 1:1:26",
+        "IFPI L042",
+        "ifpi 1438"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/6058686-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/6Wo5sp3_ztr3qQ9h9gmQsPxOIIs9ZHnTIKM6gbqQlGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTg2/ODYtMTQxMDAwODc3/OS04NzMxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/j1Rnjs2f-VhjlxdcZLXARzFF0CTkCacTME_2QHdzQrE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTg2/ODYtMTQxMDAwODc3/OS04NzMxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6058686",
+      "community": {
+        "want": 131,
+        "have": 595
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 14772378,
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "Mediamotion"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "Bel/Biem/SIAE",
+        "LC 3098",
+        "PM 538",
+        "070",
+        "MEDIAMOTION 8449132",
+        "IFPI LV03",
+        "IFPI 2537"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/14772378-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/Isdi5NLEm46O-Ig0dfuwtCesKjQRW0CT7fbCDq6zx8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcy/Mzc4LTE1ODEzNDEz/NDEtMjk5MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ILv0iWb76OUHm1_GfbeJMJ7Xe4noIjRTggNcQsEBxqA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcy/Mzc4LTE1ODEzNDEz/NDEtMjk5MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14772378",
+      "community": {
+        "want": 79,
+        "have": 536
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 25302820,
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "Unknown (PILI)"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 24384 49132 1",
+        "LC 3098",
+        "PM 538",
+        "090",
+        "PILI 013"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/25302820-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/TUVkz-jixtiVtPxQz9-IFv-LdkQn9LAXz7WgFaaeqck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzAy/ODIwLTE2Njk1ODYx/MzQtMTQ1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iGlaPmiF8G9AqVhzVSfuyBnl-0Wohrg7pyrJWyuJ6X8/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzAy/ODIwLTE2Njk1ODYx/MzQtMTQ1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25302820",
+      "community": {
+        "want": 36,
+        "have": 528
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Hut Recordings",
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "EMI Uden",
+        "EMI Uden"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 6472690,
+      "barcode": [
+        "7 24384 49132 1",
+        "Bel BIEM",
+        "LC 3098",
+        "PM 538",
+        "090",
+        "EMI UDEN 8449132 @ 1 1-4-2-NL",
+        "EMI UDEN 8449132 @ 1 1-4-13-NL",
+        "EMI UDEN 8449132 @ 1 1-6-22-NL",
+        "EMI UDEN 8449132 @ 1 1-6-26-NL",
+        "EMI UDEN 8449132 @ 1 1-1-8-NL",
+        "IFPI L047",
+        "ifpi 15A3",
+        "ifpi 1565",
+        "ifpi 151B",
+        "missing",
+        "ifpi 155D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/6472690-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/rsGo_kycin00jtDxQNlwDQELHBqRbTxiQY0WShb_Tf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzI2/OTAtMTY4MTA3MTMx/Mi04MTI0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/CjI_HYuPSTjrblUyb4qkbsl1jxoGOHfjKPLXy-u_Mfw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzI2/OTAtMTY4MTA3MTMx/Mi04MTI0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6472690",
+      "community": {
+        "want": 132,
+        "have": 400
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Singapore",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "SMA"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 10400970,
+      "barcode": [
+        "724384491321",
+        "7 24384 49132 1",
+        "IFPI L480",
+        "ifpi 9501",
+        "84491 321-9711594 SMA 34353",
+        "LC 3098",
+        "PM 538",
+        "090"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/10400970-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/NZiidGesWzljs541m_qM54An-BrqogaclRZYqVUyt3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAw/OTcwLTE0OTg5OTI3/MzAtNTI4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uTRad60aAd_Zw7qVYTZMXFBFxpHDB4rgfZKL9raEJx8/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAw/OTcwLTE0OTg5OTI3/MzAtNTI4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10400970",
+      "community": {
+        "want": 99,
+        "have": 408
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 7343763,
+      "barcode": [
+        "724384491321",
+        "LC 3098",
+        "Bel/Biem/SIAE",
+        "EMI 8449132 @1$",
+        "none",
+        "IFPI 3299",
+        "PM 538",
+        "090"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/7343763-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/REroTi2RQqBtzMS1EbtvBHrleKC8y_DkRiYHajMeoVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDM3/NjMtMTQzOTM4MTAw/OC00ODg0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/XFbCfrbl_f4oATDNli5IN3jHvcXA_Xr0vj96gSkLyLM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDM3/NjMtMTQzOTM4MTAw/OC00ODg0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7343763",
+      "community": {
+        "want": 122,
+        "have": 381
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "UMC",
+        "Virgin"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Britpop"
+      ],
+      "id": 12469202,
+      "barcode": [
+        "602557562293"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/12469202-The-Verve-Urban-Hymns",
+      "catno": "5756229",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/bKj6Rr7PYYZL6c2CfZYiVjOop-w9lRyiJ2xI7palArQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY5/MjAyLTE1MzU5MDMy/MjQtODc2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gEO1I1soIyeuqbBhl095-izxVDi4SfN0z3-GGAZOOvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY5/MjAyLTE1MzU5MDMy/MjQtODc2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12469202",
+      "community": {
+        "want": 101,
+        "have": 356
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Britpop"
+      ],
+      "id": 1274322,
+      "barcode": [
+        "7 24384 49134 5",
+        "LC 3098",
+        "Bel",
+        "BIEM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/1274322-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 4 5",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/2amPVS2HMVSmzQtdkobOnWGbpoyCOjaapJR4X4V1ALw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQz/MjItMTU4NDU1MjI0/NC01ODQ2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/cRytNbWD4A727t6t-_nz0z0PV4J-z8MVwjQHkdrrDe8/rs:fit/g:sm/q:90/h:600/w:388/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQz/MjItMTU4NDU1MjI0/NC01ODQ2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/1274322",
+      "community": {
+        "want": 152,
+        "have": 286
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Repress"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 20835883,
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI Music Publishing Ltd.",
+        "Abkco Music, Inc.",
+        "Metropolis Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 24384 49131 4",
+        "724384491314",
+        "LC 3098",
+        "PM 264",
+        "7243 8 44914 1 3",
+        "7243 8 44917 1 0",
+        "8449131-2A HUTLP 45",
+        "8449131-2B HUTLP 45 ",
+        "8449131-2C HUTLP 45",
+        "HUTLP 45 D-1-1-I \u24c2 8449131 1D1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/20835883-The-Verve-Urban-Hymns",
+      "catno": "HUTLP 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/Ga74NLiQKuUnxPHJTUQfeWV3mBsKNYFC8RpPMqLOMl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM1/ODgzLTE2MzYxMDQz/OTEtNTg3My5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/780MUprWkszwB4eBN47Ef7rew6s9fsY7Gh4yXgUplks/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM1/ODgzLTE2MzYxMDQz/OTEtNTg3My5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20835883",
+      "community": {
+        "want": 226,
+        "have": 194
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Hut Recordings",
+        "VC Records",
+        "VC Records",
+        "Hut Recordings",
+        "Hut Recordings"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Britpop"
+      ],
+      "id": 1655908,
+      "barcode": [
+        "CDPHUT45  1:1:1 EMI SWINDON",
+        "IFPI L041",
+        "IP 1444"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/1655908-The-Verve-Urban-Hymns",
+      "catno": "CDPHUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/UjpGVtXwQ4BnQx0-p_hOgzKVqga1-GC3w9u8u8rW8ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTU5/MDgtMTY5NzgwNjA2/Ni00MjI2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/5lyUUwtO0W3WVdgfJy3A2aK8mpgbgVKYPKn4ffT1n1s/rs:fit/g:sm/q:90/h:666/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTU5/MDgtMTY5NzgwNjA2/Ni00MjI2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/1655908",
+      "community": {
+        "want": 143,
+        "have": 301
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Book Cover",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Brazil",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "Videolar Multim\u00eddia Ltda.",
+        "EMI Music Ltda."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 3851968,
+      "barcode": [
+        "7 24384 49132 1",
+        "8449132 11150",
+        "IFPI L562",
+        "ifpi 9623",
+        "8449132 11150",
+        "IFPI L562",
+        "ifpi 9620"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/3851968-The-Verve-Urban-Hymns",
+      "catno": "844913 2",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/To2BZQDoCdZzHdmSTmwDrLywH_A29bkDvYn5ZP7DiUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTE5/NjgtMTM0Njg4OTYy/Mi0yMTUwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/AP-x05i5aUg5Gp_NdGliTaWp_7iKHAT3PE2G0A1TeB8/rs:fit/g:sm/q:90/h:494/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTE5/NjgtMTM0Njg4OTYy/Mi0yMTUwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3851968",
+      "community": {
+        "want": 113,
+        "have": 293
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Toshiba EMI Ltd"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 1733610,
+      "barcode": [
+        "4988006732797",
+        "JASRAC",
+        "\u00a52,548",
+        "VJCP-25338 2 A4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/1733610-The-Verve-Urban-Hymns",
+      "catno": "VJCP-25338",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/0tIBQgH6zpNaATAxNLVgzElN3mxLHSuuixs2ExCbWkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM2/MTAtMTI3MTA1MTc1/Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/56Uoaldh-fQfcOEucjNSUcJoM26E3vGLT9mpAsSs3HY/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM2/MTAtMTI3MTA1MTc1/Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/1733610",
+      "community": {
+        "want": 139,
+        "have": 226
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "Minidisc",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "VC Records Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 2428055,
+      "barcode": [
+        "724384491383",
+        "LC3098",
+        "PM577"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/2428055-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 8 3",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/jVamNIds8hzc7PyVpnEk2h_3D6qz7Py7_aELrQ8fyjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgw/NTUtMTI4NDAzNjEz/OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QDoPf4w57aheQ1zmDBIpVag8v2B8EsT_qe0zPNvDaXw/rs:fit/g:sm/q:90/h:600/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgw/NTUtMTI4NDAzNjEz/OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2428055",
+      "community": {
+        "want": 209,
+        "have": 140
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Minidisc",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Mexico",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Virgin",
+        "Virgin",
+        "EMI Music Mexico, S.A. De C.V.",
+        "EMI Music Mexico, S.A. De C.V.",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "Cinram",
+        "Cinram, Mexico"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 6332360,
+      "barcode": [
+        "7 24384 49132 1",
+        "#970930I 724384491321 L381 CINRAM",
+        "L381",
+        "IFPI 2Q00"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/6332360-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/MRH6iMKp9wtA7zSdot7KhabdYQjvEAsXk2tfJMh0NHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzIz/NjAtMTQxNzIwNDU4/OS00NjA0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/QFwnOjpmVUiw7sxQ35CXAl2ydxi_V1hM4cQADtBKXQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzIz/NjAtMTQxNzIwNDU4/OS00NjA0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6332360",
+      "community": {
+        "want": 110,
+        "have": 230
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1997",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "Virgin Records America, Inc.",
+        "Virgin Records America, Inc.",
+        "EMI Virgin Music, Inc.",
+        "ABKCO Music, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Psychedelic Rock",
+        "Britpop"
+      ],
+      "id": 5688126,
+      "barcode": [
+        "7 2438-44913-4 5",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/5688126-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 4 5",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/MohJ8nozmr77lJb1Xb0P3awk2pEhLxHIWJn2DmCfsxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODgx/MjYtMTY2MTQxMjg4/MS05MzU5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/xmEoOxH62A0N2omXSMEEzdkjyPBq4j21kOhZcH6TXTE/rs:fit/g:sm/q:90/h:952/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODgx/MjYtMTY2MTQxMjg4/MS05MzU5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5688126",
+      "community": {
+        "want": 146,
+        "have": 130
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Dolby",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "EMI"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 11963841,
+      "barcode": [
+        "7 24384 49132 1",
+        "LC 3098",
+        "Bel/Biem/SIAE",
+        "EMI 8449132 @1$",
+        "none",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/11963841-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/uYiB-qWsSuTTP7yWpZgqlpTFWhS1QmXuIED1S2-1Sgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYz/ODQxLTE1MjU2MDEz/ODEtMzgzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0W01r3ZZyjhPQH3GQgLDi4C0r2GAKu7XTbhm7tEwYrs/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYz/ODQxLTE1MjU2MDEz/ODEtMzgzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11963841",
+      "community": {
+        "want": 96,
+        "have": 202
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 14513545,
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "Hut Recordings",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "EMI Uden",
+        "Mediamotion"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 24384 49132 1",
+        "0724384491321",
+        "LC 3098",
+        "PM 538",
+        "090",
+        "Bel/Biem/SIAE",
+        "EMI UDEN 8449132 @ 1 011007-NL",
+        "IFPI L047",
+        "ifpi 1420",
+        "EMI UDEN 8449132 @ 1 011012-NL",
+        "IFPI L047",
+        "IFPI 15A4",
+        "EMI UDEN 8449132 @ 1 011004-NL",
+        "IFPI L047",
+        "IFPI 1589",
+        "EMI UDEN 8449132 @ 1 011014-NL",
+        "IFPI L047",
+        "IFPI 1565",
+        "EMI UDEN 8449132 @ 1 010127",
+        "IFPI L047",
+        "IFPI AAHY0",
+        "EMI UDEN 8449132 @ 1 011008-NL",
+        "IFPI L047",
+        "none",
+        "EMI UDEN 8449132 @ 1 011010-NL",
+        "IFPI L047",
+        "ifpi 15AA"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/14513545-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/9aCg7A_cx3uYlswfprNz8xh8Q8goPmt8Prf8eFj9iDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEz/NTQ1LTE1NzYxMzg0/ODYtODEzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9KDXAZLHkH5WUgR2L9aDssDY5IcKYUU6Kse9BHa0vQY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEz/NTQ1LTE1NzYxMzg0/ODYtODEzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14513545",
+      "community": {
+        "want": 78,
+        "have": 225
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1997",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Test Pressing"
+      ],
+      "label": [
+        "Hut Recordings"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 19618228,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/19618228-The-Verve-Urban-Hymns",
+      "catno": "HUTLP 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/5sgff_0UVRJQPfGfO9k_bBqrkLsGP7TpgQLrpHw4fvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE4/MjI4LTE2MjcyMTU4/NTItMjEwOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IghKzgfy_1cJH1IM6CZ7xtpcF-31YlRNOAHDivTavSY/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE4/MjI4LTE2MjcyMTU4/NTItMjEwOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19618228",
+      "community": {
+        "want": 197,
+        "have": 3
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australasia",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Britpop"
+      ],
+      "id": 15920517,
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "Regency Media",
+        "EMI Music Group Australasia",
+        "EMI Music Group Australasia"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "REGENCY MEDIA   108118.1   8449132",
+        "IFPI LN96",
+        "IFPI 6Z03",
+        "P53060"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/15920517-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 2 1",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/d9lhASVwzzEy_NU7k0jS-Rb8pOVntcbs8gYztj4dpfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIw/NTE3LTE2MTc5Mzg2/MTYtMzY1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/L7pr2XDnmfN23UIPRozIbGag5nbYOMqLnTmLIhaSwJw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIw/NTE3LTE2MTc5Mzg2/MTYtMzY1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15920517",
+      "community": {
+        "want": 63,
+        "have": 234
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1997",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "VC Records Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Britpop"
+      ],
+      "id": 9551793,
+      "barcode": [
+        "724384491345",
+        "LC 3098",
+        "Bel/Biem"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/9551793-The-Verve-Urban-Hymns",
+      "catno": "7243 8 44913 4 5",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/7e6MnhDqf4H_ygBua2rF_6pQryJ073T-ZW29ZB1nKrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTE3/OTMtMTQ5MzMxODQz/MC0xMDE3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Jhwiy6vH2i-tjfG81qNGCrX5S47rxjI9L27jS9sAXMY/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTE3/OTMtMTQ5MzMxODQz/MC0xMDE3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9551793",
+      "community": {
+        "want": 115,
+        "have": 159
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 8724901,
+      "label": [
+        "Hut Recordings",
+        "Hut Recordings",
+        "Hut Recordings",
+        "Virgin",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "VC Records Ltd.",
+        "Hut Recordings",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc.",
+        "Microdot",
+        "EMI Uden",
+        "Mediamotion"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 24384 49132 1",
+        "724384491321",
+        "LC 3098",
+        "Bel/Biem/SIAE",
+        "PM 538",
+        "090",
+        "EMI UDEN 8449132 @ 1 011015-NL",
+        "IFPI L047",
+        "ifpi AAH34",
+        "EMI UDEN 8449132 @ 1 010126",
+        "IFPI L047",
+        "ifpi AAH13",
+        "EMI UDEN 8449132 @ 1 011029",
+        "IFPI L047",
+        "IFPI AAHY0",
+        "EMI UDEN 8449132 @ 1 011029",
+        "IFPI L047",
+        "IFPI AAHT0",
+        "EMI UDEN 8449132 @ 1 011016-NL",
+        "IFPI L047",
+        "ifpi AAHC2",
+        "EMI UDEN 8449132 @ 1 011022-NL",
+        "IFPI L047",
+        "ifpi AAH97",
+        "EMI UDEN 8449132 @ 1 011006-NL",
+        "IFPI L047",
+        "ifpi AAHA7",
+        "EMI UDEN 8449132 @ 1 010125",
+        "IFPI L047",
+        "ifpi AAH43",
+        "EMI UDEN 8449132 @ 1 010127",
+        "IFPI L047",
+        "IFPI AAHY0",
+        "EMI UDEN 8449132 @ 1 011013-NL",
+        "IFPI L047",
+        "ifpi AAH97",
+        "EMI UDEN 8449132 @ 1 011028",
+        "IFPI L047",
+        "ifpi AAHY1",
+        "EMI UDEN 8449132 @ 1 011023",
+        "IFPI L047",
+        "ifpi AAH10",
+        "EMI UDEN 8449132 @ 1 011028",
+        "IFPI L047",
+        "IFPI AAHT0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/8724901-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/iroOkgBN3fPP7lJ0qdcZzhSmlNUcmP6bUYdWVqpIfiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjQ5/MDEtMTQ3MDI1NjMw/My04NTc2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/kGMvmmvQFYBFhLim1Hus1zuUva8SMGk-hN42q3zwSL8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjQ5/MDEtMTQ3MDI1NjMw/My04NTc2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8724901",
+      "community": {
+        "want": 113,
+        "have": 145
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Argentina",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "VC Records",
+        "VC Records",
+        "EMI-Odeon S.A.I.C.",
+        "EMI-Odeon S.A.I.C.",
+        "Sonopress"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 11977952,
+      "barcode": [
+        "0 724384 49132 1",
+        "AADI-CAPIF, SADAIC-BIEM",
+        "SONOPRESS 8449132 1535/98",
+        "IFPI L029",
+        "IFPI 10C1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/11977952-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/BIeacF4DaLQZKzr5lcRFuLfaLn2uuRbHhQUOwM0VZBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc3/OTUyLTE1MjU4ODg5/OTUtNjE2OC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/5yXqfUigesaTXxmPstu4zWp8CL6tj4FJwezWXRbvkhQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc3/OTUyLTE1MjU4ODg5/OTUtNjE2OC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11977952",
+      "community": {
+        "want": 85,
+        "have": 121
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Sonopress Pressing",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Argentina",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Britpop"
+      ],
+      "id": 5298128,
+      "label": [
+        "Hut Recordings",
+        "Virgin",
+        "Teltron"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 724384 49132 1",
+        "teltron 7039-2 8449132 INDUSTRIA ARGENTINA",
+        "IFPI 6C05"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/5298128-The-Verve-Urban-Hymns",
+      "catno": "CD HUT 45",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/79FQTWCwdwVZChc73NyceY8wC8cwQudIulob6Efwfw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTgx/MjgtMTQ2MDkyNjgx/NC03MzM2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/cSpx6FH-rm4ZmTR4qJJoe8bIq1JNf54EXxVaTNVrGEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTgx/MjgtMTQ2MDkyNjgx/NC03MzM2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5298128",
+      "community": {
+        "want": 107,
+        "have": 101
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2002",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Virgin",
+        "Hut Recordings",
+        "Toshiba EMI Ltd",
+        "Modern Masters",
+        "VC Records Ltd.",
+        "VC Records Ltd.",
+        "Toshiba EMI Ltd",
+        "EMI Music Publishing Ltd.",
+        "ABKCO Music, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Britpop"
+      ],
+      "id": 3643577,
+      "barcode": [
+        "4 988006 800571",
+        "4988006800571",
+        "JASRAC",
+        "VJCP-68402 2",
+        "IFPI L152",
+        "IFPI 28B9",
+        "VJCP-68402 2 A1",
+        "IFPI L152",
+        "IFPI 28A8",
+        "VJCP-68402 1 A1",
+        "IFPI L152",
+        "IFPI 28A8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 20634,
+      "master_url": "https://api.discogs.com/masters/20634",
+      "uri": "/release/3643577-The-Verve-Urban-Hymns",
+      "catno": "VJCP-68402",
+      "title": "The Verve - Urban Hymns",
+      "thumb": "https://i.discogs.com/7k6smpjlL8rGveNreMUw8pv5YZhLtYGKSxdko64KnbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDM1/NzctMTYxMDM3Nzk4/MS0zNzc3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/GZIiGUSZgfv6P7nkJXkwBMfVyJNA9xjNV2YUdUEu-ac/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDM1/NzctMTYxMDM3Nzk4/MS0zNzc3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3643577",
+      "community": {
+        "want": 125,
+        "have": 85
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Papersleeve",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

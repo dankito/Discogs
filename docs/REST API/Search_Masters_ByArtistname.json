@@ -1,0 +1,985 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 50,
+    "items": 21,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Netherlands",
+      "year": "2014",
+      "format": [
+        "CDr",
+        "Single",
+        "Promo"
+      ],
+      "label": [
+        "Universal Music",
+        "UMG Recordings, Inc.",
+        "The Church, London",
+        "Golden Age, Auckland",
+        "Lake House Recording Studio",
+        "Republic Records"
+      ],
+      "type": "master",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Synth-pop"
+      ],
+      "id": 838646,
+      "barcode": [
+        "00602547060433",
+        "biem stemra",
+        "US-UM7-14-14680",
+        "T80-UG-5 (12089103)",
+        "Z1JT A18B 0504210919 A21"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 838646,
+      "master_url": "https://api.discogs.com/masters/838646",
+      "uri": "/master/838646-Lorde-Yellow-Flicker-Beat-",
+      "catno": "none",
+      "title": "Lorde - Yellow Flicker Beat ",
+      "thumb": "https://i.discogs.com/YzUraSLwQbBD541ELPFHxaE6ti3g_U7s9DSxIFe3auA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTk2/NTMtMTQyNjk2MzU0/My0zMTM3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/NzraU3NAQBY5i-_ZoIgPaJ89Vua0m6TQROM-UTIeypQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTk2/NTMtMTQyNjk2MzU0/My0zMTM3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/838646",
+      "community": {
+        "want": 112,
+        "have": 32
+      }
+    },
+    {
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music",
+        "Universal Music NZ Ltd.",
+        "Universal Music NZ Ltd.",
+        "Ducky Donath Music",
+        "Songs Music Publishing",
+        "Sony/ATV Songs LLC"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Ballad"
+      ],
+      "id": 1148824,
+      "barcode": [
+        "0060255747763"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1148824,
+      "master_url": "https://api.discogs.com/masters/1148824",
+      "uri": "/Lorde-Liability/master/1148824",
+      "catno": "none",
+      "title": "Lorde - Liability",
+      "thumb": "https://i.discogs.com/UewqsUGBH2UhqSD1wPVVRz7erQ9zLBAHYrLKanehv9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTM4/NzQtMTQ4OTE1OTMy/Ni03MTY5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/DnTGGFHH6_M6d9YxeIRbRles4kW5OQcxl5O1rs-WKMU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTM4/NzQtMTQ4OTE1OTMy/Ni03MTY5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1148824",
+      "community": {
+        "want": 22,
+        "have": 19
+      }
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Universal Music New Zealand Limited"
+      ],
+      "type": "master",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Alt-Pop",
+        "Synth-pop"
+      ],
+      "id": 3891772,
+      "barcode": [
+        "1810905299"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3891772,
+      "master_url": "https://api.discogs.com/masters/3891772",
+      "uri": "/master/3891772-Lorde-Virgin",
+      "catno": "none",
+      "title": "Lorde - Virgin",
+      "thumb": "https://i.discogs.com/jpjXGKseh33fpBKy3v1zw-RPoNx5YRfK4aCYSdoYi8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQ2/NDQ2LTE3NDY5MTQ2/OTktNjQ5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7rHCirF5ovi9v_-KF-g1qIvclauPEoAjuYdv3Ie7QTs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQ2/NDQ2LTE3NDY5MTQ2/OTktNjQ5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/3891772",
+      "community": {
+        "want": 4552,
+        "have": 21216
+      }
+    },
+    {
+      "country": "Netherlands",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "EP",
+        "33 \u2153 RPM",
+        "Limited Edition",
+        "Unofficial Release",
+        "Promo"
+      ],
+      "label": [
+        "REALDJS"
+      ],
+      "type": "master",
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Blues",
+        "Pop"
+      ],
+      "style": [
+        "Hip Hop",
+        "Rhythm & Blues"
+      ],
+      "id": 646557,
+      "barcode": [
+        "LOURDE001-A.",
+        "LOURDE001-B.",
+        "LOURDE001-C.",
+        "LOURDE001-D."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 646557,
+      "master_url": "https://api.discogs.com/masters/646557",
+      "uri": "/master/646557-Lorde-The-Love-Club-Limited-Edition",
+      "catno": "LOURDE001",
+      "title": "Lorde - The Love Club (Limited Edition)",
+      "thumb": "https://i.discogs.com/vcSuc_fpATy6UzWpOsKMy2E0l6Z3fQ4ASE15smYM4-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTYw/MzMtMTM4MjIwNTU1/OC0xMjQ4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/pRN8ZF-QqerSvnZ2ZUOvZSgw6anLfLwdSRfclr6i7kk/rs:fit/g:sm/q:90/h:405/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTYw/MzMtMTM4MjIwNTU1/OC0xMjQ4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/646557",
+      "community": {
+        "want": 820,
+        "have": 580
+      }
+    },
+    {
+      "country": "Europe",
+      "year": "2021",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Universal Music NZ Ltd.",
+        "Universal Music NZ Ltd."
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "id": 2190640,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2190640,
+      "master_url": "https://api.discogs.com/masters/2190640",
+      "uri": "/Lorde-Solar-Power/master/2190640",
+      "catno": "none",
+      "title": "Lorde - Solar Power",
+      "thumb": "https://i.discogs.com/3pywV1uQ2lTEH5Xznlla9_1hn27a0752ZhknEs8Xqc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzAz/NTU1LTE2MjQ4NzM0/OTAtMjY5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eynkp9mcBdyDbmQlF_u3PGjTCQUWuB5JMg9Xwds6_Vk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzAz/NTU1LTE2MjQ4NzM0/OTAtMjY5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/2190640",
+      "community": {
+        "want": 58,
+        "have": 40
+      }
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "label": [
+        "Republic Records",
+        "Lava",
+        "Universal Music NZ Ltd.",
+        "Universal Music NZ Ltd.",
+        "Republic Records",
+        "Lava",
+        "Universal Music Distribution"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "id": 599980,
+      "barcode": [
+        "6 02537 47184 3",
+        "B0018886-21A",
+        "B0018886-21B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 599980,
+      "master_url": "https://api.discogs.com/masters/599980",
+      "uri": "/master/599980-Lorde-Tennis-Court",
+      "catno": "B0018886-21",
+      "title": "Lorde - Tennis Court",
+      "thumb": "https://i.discogs.com/8YAFCGMW-ZfVdYdZVAUavMwd1w0h1eixrrBoGqErA9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzgz/MzUtMTQ4OTUxMDE5/Ny0zMTU5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/R9l1zVqBnRSWkv5UJQMoCcWJn8MyBXgKTxLQjOAJ_0M/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzgz/MzUtMTQ4OTUxMDE5/Ny0zMTU5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/599980",
+      "community": {
+        "want": 2860,
+        "have": 1174
+      }
+    },
+    {
+      "country": "Worldwide",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Crush Music",
+        "Universal Music NZ Ltd.",
+        "Universal Music NZ Ltd.",
+        "Universal International Music B.V.",
+        "Electric Lady Studios",
+        "Conway Studios",
+        "Roundhead Studios",
+        "Rough Customer Studio",
+        "Larrabee Sound Studios",
+        "Parachute Studios, Auckland",
+        "Sound City Studios",
+        "Pleasure Hill Recording",
+        "Sound House Recording",
+        "The Mix Suite",
+        "Mixsuite LA",
+        "Sterling Sound",
+        "Kobalt Music Group Limited",
+        "Sony/ATV Songs LLC",
+        "Ducky Donath Music",
+        "10 Music",
+        "Sterling Sound",
+        "Optimal Media GmbH"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Synth-pop"
+      ],
+      "id": 2261653,
+      "barcode": [
+        "602438176489",
+        "6 02438 17648 9",
+        "LC01846",
+        "BIEM/SDRM",
+        "BMI",
+        "ASCAP",
+        "LORDELP3",
+        "LORDELP3-A (1)-2 BL44271-01 A1 JN-H STERLING VI^",
+        "LORDELP3-B (1)-2 BL44271-01 B1 JN-H STERLING TI^"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2261653,
+      "master_url": "https://api.discogs.com/masters/2261653",
+      "uri": "/master/2261653-Lorde-Solar-Power",
+      "catno": "00602438176489",
+      "title": "Lorde - Solar Power",
+      "thumb": "https://i.discogs.com/n04LEuCMDf-PXGA7j4GoZrJ_XVZEF1MQYI-0StGZQqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODkz/ODYyLTE3NTU5MjMz/MTEtNTQyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dDMX5O5-TJLH-WTz6vrcCrHHEIgcGEbR8Q4ZkzH-NY0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODkz/ODYyLTE3NTU5MjMz/MTEtNTQyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/2261653",
+      "community": {
+        "want": 11626,
+        "have": 36731
+      }
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2013",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Universal Music New Zealand",
+        "Single Of The Week"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Vocal"
+      ],
+      "id": 1248943,
+      "barcode": [
+        "id716908688"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1248943,
+      "master_url": "https://api.discogs.com/masters/1248943",
+      "uri": "/master/1248943-Lorde-Ribs",
+      "catno": "none",
+      "title": "Lorde - Ribs",
+      "thumb": "https://i.discogs.com/RRJEGaoUrwXXAukpFZtkgm2PNAejXjDh8D4cISHt_YA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDA0/NTgtMTM5MjQzMjE2/Mi04OTc3LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/cW60jGxjpqlHOFqcX0sD9szVEtYCg8QzcL7_OxBa4aE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDA0/NTgtMTM5MjQzMjE2/Mi04OTc3LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1248943",
+      "community": {
+        "want": 13,
+        "have": 7
+      }
+    },
+    {
+      "country": "Australia & New Zealand",
+      "year": "2013",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Universal Music NZ Ltd."
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop"
+      ],
+      "id": 667306,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 667306,
+      "master_url": "https://api.discogs.com/masters/667306",
+      "uri": "/master/667306-Lorde-Team",
+      "catno": "none",
+      "title": "Lorde - Team",
+      "thumb": "https://i.discogs.com/6_2Bl38IM10_nakJFFB9UAltTBwQHI97CufAHnlUzZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk2/MTEtMTM3OTE2MjM0/Ny04ODU4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/mX08_JE_GEJp9SUPtLRNH1WdQu7x4Suj3baIce3qQSg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk2/MTEtMTM3OTE2MjM0/Ny04ODU4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/667306",
+      "community": {
+        "want": 923,
+        "have": 71
+      }
+    },
+    {
+      "country": "Asia",
+      "year": "2013",
+      "format": [
+        "File",
+        "AAC",
+        "Single",
+        "Promo"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Universal Music New Zealand"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "id": 734946,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 734946,
+      "master_url": "https://api.discogs.com/masters/734946",
+      "uri": "/master/734946-Lorde-Buzzcut-Season",
+      "catno": "none",
+      "title": "Lorde - Buzzcut Season",
+      "thumb": "https://i.discogs.com/O8TSu9wlbhJKPwsTbU-jbObB1hbeGNj7FAR7mUSgL9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDA0/MTktMTM5MjQzMTIz/MC03MTc4LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/Z5WUVSk9hptOyFnQUDaR9GKzT_FQFDqgnKnEq05Cr6c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDA0/MTktMTM5MjQzMTIz/MC03MTc4LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/masters/734946",
+      "community": {
+        "want": 10,
+        "have": 9
+      }
+    },
+    {
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Universal Music New Zealand Limited",
+        "Universal Music New Zealand Limited"
+      ],
+      "type": "master",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "id": 3829863,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3829863,
+      "master_url": "https://api.discogs.com/masters/3829863",
+      "uri": "/master/3829863-Lorde-What-Was-That",
+      "catno": "none",
+      "title": "Lorde - What Was That",
+      "thumb": "https://i.discogs.com/wOYr8n0PkrvFdHF9scxOANL2bv5z9uZTEetoW5tAIXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzkx/ODgwLTE3NDU0Njg4/MDktNTg3Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TAggHjkircIUZzN4YRVdiEXIuSQlOB9SCc31-EI1ffQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzkx/ODgwLTE3NDU0Njg4/MDktNTg3Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/3829863",
+      "community": {
+        "want": 4,
+        "have": 8
+      }
+    },
+    {
+      "country": "Unknown",
+      "year": "2021",
+      "format": [
+        "File",
+        "AAC",
+        "EP"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Universal Music New Zealand Limited",
+        "Universal Music New Zealand Limited"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "id": 2656835,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2656835,
+      "master_url": "https://api.discogs.com/masters/2656835",
+      "uri": "/master/2656835-Lorde-Te-Ao-M%C4%81rama",
+      "catno": "none",
+      "title": "Lorde - Te Ao M\u0101rama",
+      "thumb": "https://i.discogs.com/si5nMhxX3fyGlfqepb5OeqYhNWwoPae4UYmerO9951I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM4/NDE0LTE2NTQxNDIy/MjYtNDg4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/L1C75BGodAIihxuJRQC698KkWYfAzHJt2eChPW52awM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM4/NDE0LTE2NTQxNDIy/MjYtNDg4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/2656835",
+      "community": {
+        "want": 362,
+        "have": 1164
+      }
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Lava",
+        "Republic Records",
+        "Universal Music NZ Ltd.",
+        "Universal Music NZ Ltd.",
+        "Copyright Control",
+        "Sony ATV",
+        "Lava",
+        "Universal Republic Records",
+        "UMG Recordings, Inc.",
+        "Universal Music Distribution",
+        "Sony DADC, Terre Haute",
+        "Copyright Control",
+        "Sony ATV",
+        "Golden Age, Auckland",
+        "Metropolis Mastering",
+        "Hugo & Marie"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Synth-pop",
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "id": 602071,
+      "barcode": [
+        "6 02537 51900 2",
+        "602537519002",
+        "DIDX-1031668  1",
+        "IFPI L327",
+        "IFPI 50A8",
+        "IFPI 5082",
+        "IFPI 5022",
+        "IFPI 50B-3",
+        "IFPI 50C0",
+        "IFPI 5083",
+        "IFPI 50F5",
+        "IFPI 50F8",
+        "IFPI 50D3",
+        "A07",
+        "A20",
+        "A10",
+        "A01",
+        "A16",
+        "A11",
+        "A10",
+        "A01",
+        "IFPI 50E3",
+        "B04"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 602071,
+      "master_url": "https://api.discogs.com/masters/602071",
+      "uri": "/master/602071-Lorde-Pure-Heroine",
+      "catno": "B0019254-02",
+      "title": "Lorde - Pure Heroine",
+      "thumb": "https://i.discogs.com/ztdapFNWefwClDrjKdKSHf0z8jwdjvV_k8NbDCHwAUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE1/OTAtMTY0ODE1OTk4/MS00NTI1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/sINRHm-vp6poEbVXJcvnr_4pnKI-lG5uai0sUARKFiw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE1/OTAtMTY0ODE1OTk4/MS00NTI1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/602071",
+      "community": {
+        "want": 26189,
+        "have": 59038
+      }
+    },
+    {
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "id": 1144179,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1144179,
+      "master_url": "https://api.discogs.com/masters/1144179",
+      "uri": "/master/1144179-Lorde-Green-Light",
+      "catno": "none",
+      "title": "Lorde - Green Light",
+      "thumb": "https://i.discogs.com/8ri4B8JaawUQPi_iD5RWpta09cObqCz1ron3AJFX9rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTYy/OTMtMTQ4ODQ4ODcz/My01NDk2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/YHCOyBudmzOE4t4eYTveDBBSEHWNG7n1q_vC01_vkA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTYy/OTMtMTQ4ODQ4ODcz/My01NDk2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1144179",
+      "community": {
+        "want": 19,
+        "have": 29
+      }
+    },
+    {
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music",
+        "Universal Music NZ Ltd.",
+        "Universal Music NZ Ltd.",
+        "Ducky Donath Music",
+        "EMI Blackwood Music Inc.",
+        "Songs Music Publishing",
+        "Sony/ATV Songs LLC"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "id": 1227827,
+      "barcode": [
+        "602557716894"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1227827,
+      "master_url": "https://api.discogs.com/masters/1227827",
+      "uri": "/Lorde-Green-Light-Chromeo-Remix/master/1227827",
+      "catno": "none",
+      "title": "Lorde - Green Light (Chromeo Remix)",
+      "thumb": "https://i.discogs.com/0DyDiubBfuUxgsgQLeRg2mv7AmfoLtvxkRL9sSK9yKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/NzM0LTE1MDM2NDgx/MzQtNjU2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EiJW7Y4YY9veXGy1QIj26kM4nDHrcjqNVlj8973SIwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/NzM0LTE1MDM2NDgx/MzQtNjU2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1227827",
+      "community": {
+        "want": 0,
+        "have": 0
+      }
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CDr",
+        "Single",
+        "Promo"
+      ],
+      "label": [
+        "Lava",
+        "Republic Records"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "id": 630487,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 630487,
+      "master_url": "https://api.discogs.com/masters/630487",
+      "uri": "/master/630487-Lorde-Royals",
+      "catno": "none",
+      "title": "Lorde - Royals",
+      "thumb": "https://i.discogs.com/YwTU61Eea9EnfrO50GO-Nnt28e5tBugjnVnN56eLpv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTgz/MzgtMTQyNTI0Nzc1/MS01MDI2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/OXwFSj-lqqOnZo2n53yWicGXywPpK1Uz6-R5vEoxpBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTgz/MzgtMTQyNTI0Nzc1/MS01MDI2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/630487",
+      "community": {
+        "want": 485,
+        "have": 163
+      }
+    },
+    {
+      "country": "Australasia",
+      "year": "2013",
+      "format": [
+        "CD",
+        "EP"
+      ],
+      "label": [
+        "Universal Music New Zealand",
+        "Universal Music New Zealand",
+        "Universal Music New Zealand",
+        "EMI Music Publishing",
+        "EMI Music Publishing Australia",
+        "Universal Music Australia",
+        "Sony DADC Australia"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [],
+      "id": 573442,
+      "barcode": [
+        "602537389551",
+        "0 602537 389551",
+        "B00CTGVKGQ",
+        "[Universal logo] ANZ   3738955     A0101005225-0101 12",
+        "IFPI LV87",
+        "IFPI 6513",
+        "IFPI 6520",
+        "IFPI 6542",
+        "IFPI 651A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 573442,
+      "master_url": "https://api.discogs.com/masters/573442",
+      "uri": "/master/573442-Lorde-The-Love-Club-EP",
+      "catno": "3738955",
+      "title": "Lorde - The Love Club EP",
+      "thumb": "https://i.discogs.com/JTmPLH3vr3CS1wUGjFtGCR8lGanhbpNumqtim3hM5SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTk3/MTMtMTY0ODE2MDAz/NS05MjU3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/CJswIKHOHHb-creIzHwTTdaqubyMwrYjDUuWsn6QyfY/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTk3/MTMtMTY0ODE2MDAz/NS05MjU3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/573442",
+      "community": {
+        "want": 3583,
+        "have": 1220
+      }
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Lava",
+        "Republic Records",
+        "Universal Music NZ Ltd.",
+        "Universal Music NZ Ltd.",
+        "Universal Music Distribution",
+        "Lava",
+        "Republic Records",
+        "UMG Recordings, Inc.",
+        "Electric Lady Studios",
+        "Rough Customer Studio",
+        "Westlake Studios",
+        "Conway Studios",
+        "Jungle City Studios",
+        "MixStar Studios",
+        "Electric Lady Studios",
+        "Sterling Sound",
+        "Songs Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Ducky Donath Music",
+        "EMI Blackwood Music Inc.",
+        "Wolf Cousins",
+        "Warner Chappell Music Scandinavia",
+        "CDA ImPressing Solutions, USA"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Synth-pop",
+        "Alt-Pop"
+      ],
+      "id": 1196330,
+      "barcode": [
+        "602557547092",
+        "6 02557 54709 2",
+        "05/24/2017 09:08.AM#10520 B002661502 3166750 01",
+        "05/24/2017 10:15.AM#10520 B002661502 3166750 03",
+        "05/24/2017 09:02.AM#10519 B002661502 3166750 02",
+        "05/24/2017 09:08.AM#10511 B002661502 3166750 01",
+        "IFPI LN09",
+        "IFPI 1025",
+        "IFPI 1021",
+        "IFPI JI20",
+        "BMI",
+        "STIM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1196330,
+      "master_url": "https://api.discogs.com/masters/1196330",
+      "uri": "/master/1196330-Lorde-Melodrama",
+      "catno": "B0026615-02",
+      "title": "Lorde - Melodrama",
+      "thumb": "https://i.discogs.com/lcDXmRTGhP7IPiRZwbTWZUB3M8qZOHI_93ZLDVMWVjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM2/NTc2LTE2MzU2OTc3/NjItNTg5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/czL4saJHmT9NVfUrkGj59MrIgRJ9vA4B4syD_8PyYuc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM2/NTc2LTE2MzU2OTc3/NjItNTg5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1196330",
+      "community": {
+        "want": 23963,
+        "have": 51229
+      }
+    },
+    {
+      "country": "UK",
+      "year": "2015",
+      "format": [
+        "CDr",
+        "Single",
+        "Promo"
+      ],
+      "label": [
+        "PMR",
+        "Your Army"
+      ],
+      "type": "master",
+      "genre": [
+        "Electronic"
+      ],
+      "style": [
+        "House"
+      ],
+      "id": 965721,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 965721,
+      "master_url": "https://api.discogs.com/masters/965721",
+      "uri": "/master/965721-Disclosure-3-Ft-Lorde-Magnets",
+      "catno": "none",
+      "title": "Disclosure (3) Ft Lorde - Magnets",
+      "thumb": "https://i.discogs.com/0hbOkhS96hnNmvI_kXF25vNHRrZ1wzomTSQ2iJIzjqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzcw/MDAtMTU2NTg5ODA3/NS01MzMxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/1FLkoVDYeI2mJwmyXDs36_f-7-wfQsVqhVqkWAqoiIY/rs:fit/g:sm/q:90/h:366/w:372/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzcw/MDAtMTU2NTg5ODA3/NS01MzMxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/965721",
+      "community": {
+        "want": 111,
+        "have": 29
+      }
+    },
+    {
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP"
+      ],
+      "label": [
+        "Fonograf Editions"
+      ],
+      "type": "master",
+      "genre": [
+        "Non-Music"
+      ],
+      "style": [
+        "Poetry",
+        "Spoken Word"
+      ],
+      "id": 3321541,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3321541,
+      "master_url": "https://api.discogs.com/masters/3321541",
+      "uri": "/master/3321541-Audre-Lorde-At-Fassett-Studio-1970",
+      "catno": "FONO27WS02",
+      "title": "Audre Lorde - At Fassett Studio, 1970",
+      "thumb": "https://i.discogs.com/a-c8Wz5Psj-cOj5_k5k8xppq8uAn1C4eNJDyBYhX4ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/NDg1LTE3MDAyMTYz/ODItNTUzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vQAwuc8UE68EZVmGeboN0IgzwlnyZaDvhYS7EyYMEFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/NDg1LTE3MDAyMTYz/ODItNTUzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/3321541",
+      "community": {
+        "want": 18,
+        "have": 14
+      }
+    },
+    {
+      "country": "Unknown",
+      "year": "2018",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music NZ Ltd."
+      ],
+      "type": "master",
+      "genre": [
+        "Hip Hop",
+        "Pop"
+      ],
+      "style": [],
+      "id": 2006635,
+      "barcode": [
+        "1353739730"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2006635,
+      "master_url": "https://api.discogs.com/masters/2006635",
+      "uri": "/Lorde-Feat-Run-The-Jewels-Supercut-El-P-Remix/master/2006635",
+      "catno": "none",
+      "title": "Lorde Feat. Run The Jewels - Supercut (El-P Remix)",
+      "thumb": "https://i.discogs.com/x_A9WN5mkTNQlYVo6E9jJqzX1UE43-h4TusoERE5oKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcy/MzczLTE2NDYwNzgx/NDMtMTA2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jPGiWTAot0QTz9uY9q8vDROM_dGSAjGj8k0IgIVlbpk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcy/MzczLTE2NDYwNzgx/NDMtMTA2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/2006635",
+      "community": {
+        "want": 9,
+        "have": 33
+      }
+    }
+  ]
+}

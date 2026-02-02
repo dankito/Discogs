@@ -3,6 +3,8 @@ package net.dankito.music.discogs.restapi
 import net.dankito.music.discogs.model.Artist
 import net.dankito.music.discogs.model.Master
 import net.dankito.music.discogs.model.Release
+import net.dankito.music.discogs.model.SearchResult
+import net.dankito.music.discogs.model.SearchResultItemType
 import net.dankito.web.client.ContentTypes
 import net.dankito.web.client.KtorWebClient
 import net.dankito.web.client.RequestParameters
@@ -19,13 +21,99 @@ open class DiscogsApiClient(
     suspend fun getArtist(artistId: Int): WebClientResult<Artist> =
         get("/artists/$artistId")
 
+    suspend fun getArtistAsJson(artistId: Int): WebClientResult<String> =
+        get("/artists/$artistId")
+
     suspend fun getMaster(masterId: Int): WebClientResult<Master> =
         get("/masters/$masterId")
 
     suspend fun getRelease(releaseId: Int): WebClientResult<Release> =
         get("/releases/$releaseId")
 
-    private suspend inline fun <reified T : Any> get(path: String): WebClientResult<T> {
+
+    suspend fun searchArtists(artistName: String, page: Int = 1, itemsPerPage: Int = 50) =
+        search(SearchResultItemType.Artist, query = artistName, page = page, itemsPerPage = itemsPerPage)
+
+    suspend fun searchMasters(query: String, page: Int = 1, itemsPerPage: Int = 50) =
+        search(query = query, type = SearchResultItemType.Master, page = page, itemsPerPage = itemsPerPage)
+
+    suspend fun searchMasters(artistName: String? = null, releaseTitle: String? = null, trackTitle: String? = null, page: Int = 1, itemsPerPage: Int = 50) =
+        search(artistName = artistName, title = releaseTitle, trackTitle = trackTitle, type = SearchResultItemType.Master, page = page, itemsPerPage = itemsPerPage)
+
+    suspend fun searchReleases(query: String, page: Int = 1, itemsPerPage: Int = 50) =
+        search(query = query, type = SearchResultItemType.Release, page = page, itemsPerPage = itemsPerPage)
+
+    suspend fun searchReleases(artistName: String? = null, releaseTitle: String? = null, trackTitle: String? = null, page: Int = 1, itemsPerPage: Int = 50) =
+        search(artistName = artistName, title = releaseTitle, trackTitle = trackTitle, type = SearchResultItemType.Release, page = page, itemsPerPage = itemsPerPage)
+
+    suspend fun searchLabels(labelName: String, page: Int = 1, itemsPerPage: Int = 50) =
+        search(type = SearchResultItemType.Label, query = labelName, page = page, itemsPerPage = itemsPerPage)
+
+    suspend fun search(query: String, type: SearchResultItemType? = null, page: Int = 1, itemsPerPage: Int = 50) =
+        search(type, query, page = page, itemsPerPage = itemsPerPage)
+
+    suspend fun search(type: SearchResultItemType? = null,
+                       /**
+                        * Your search query. Example: nirvana
+                        */
+                       query: String? = null,
+                       /**
+                        * Search artist names. Example: nirvana
+                        */
+                       artistName: String? = null,
+                       /**
+                        * Search by combined “Artist Name - Release Title” title field. Example: nirvana - nevermind
+                        */
+                       title: String? = null,
+                       /**
+                        * Search release titles. Example: nevermind
+                        */
+                       releaseTitle: String? = null,
+                       /**
+                        * Search track titles. Example: smells like teen spirit
+                        */
+                       trackTitle: String? = null,
+                       /**
+                        * Search label names. Example: dgc
+                        */
+                       labelName: String? = null,
+                       /**
+                        * Search formats. Example: album
+                        */
+                       format: String? = null,
+                       genre: String? = null, style: String? = null, country: String? = null, year: Int? = null,
+                       page: Int = 1, itemsPerPage: Int = 50): WebClientResult<SearchResult> {
+        val queryParameters = buildMap {
+            putIfSet("type", type?.apiName)
+
+            putIfSet("query", query)
+            putIfSet("artist", artistName)
+            putIfSet("release_title", releaseTitle)
+            putIfSet("title", title)
+            putIfSet("label", labelName)
+            putIfSet("track", trackTitle)
+
+            putIfSet("format", format)
+            putIfSet("genre", genre)
+            putIfSet("style", style)
+            putIfSet("country", country)
+            putIfSet("year", year)
+
+            put("page", page)
+            put("per_page", itemsPerPage)
+        }
+
+        return get("/database/search", queryParameters)
+    }
+
+    private fun <K, V : Any> MutableMap<K, V>.putIfSet(key: K, value: V?) {
+        if (value != null) {
+            put(key, value)
+        }
+    }
+
+
+    private suspend inline fun <reified T : Any> get(path: String, queryParameters: Map<String, Any> = emptyMap()): WebClientResult<T> {
         val url = if (path.startsWith("http")) path else "$baseUrl$path"
 
         val headers = buildMap {
@@ -34,11 +122,12 @@ open class DiscogsApiClient(
         }
 
         return webClient.get(RequestParameters(
-                url = url,
-                responseClass = T::class,
-                accept = ContentTypes.JSON,
-                userAgent = userAgent,
-                headers = headers,
+            url = url,
+            responseClass = T::class,
+            accept = ContentTypes.JSON,
+            userAgent = userAgent,
+            headers = headers,
+            queryParameters = queryParameters
         ))
     }
 

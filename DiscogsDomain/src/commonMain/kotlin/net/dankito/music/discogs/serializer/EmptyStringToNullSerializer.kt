@@ -10,7 +10,7 @@ import kotlinx.serialization.encoding.Encoder
 object EmptyStringToNullSerializer : KSerializer<String?> {
 
     override val descriptor: SerialDescriptor =
-        PrimitiveSerialDescriptor("EmptyStringTpNull", PrimitiveKind.STRING)
+        PrimitiveSerialDescriptor("EmptyStringToNull", PrimitiveKind.STRING)
 
     override fun deserialize(decoder: Decoder): String? {
         val value = decoder.decodeString()

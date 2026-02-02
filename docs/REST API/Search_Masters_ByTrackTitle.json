@@ -1,0 +1,209 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 50,
+    "items": 4,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Germany",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Maxi-Single"
+      ],
+      "label": [
+        "Grand Hotel Van Cleef",
+        "Indigo",
+        "Monoposto Mastering",
+        "Optimal Media Production"
+      ],
+      "type": "master",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 1296817,
+      "barcode": [
+        "4 015698 592429",
+        "4015698592429",
+        "LC 12764",
+        "INDIGO CD 5924-2 A525482-01 manufactured by optimal media production",
+        "ifpi L571",
+        "IFPI 9703"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1296817,
+      "master_url": "https://api.discogs.com/masters/1296817",
+      "uri": "/master/1296817-Kettcar-Deiche",
+      "catno": "GHvC 018",
+      "title": "Kettcar - Deiche",
+      "thumb": "https://i.discogs.com/s8zbetQX7A0SsZjQtNq0x8NBd4VuM_lxVcfdkJFQnAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk3/MC0xMTg5ODczNzI1/LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/i32kvcx38Bb8ZHnfQP6gmUirmSUvOgfZBsEXZl6k7zA/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk3/MC0xMTg5ODczNzI1/LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1296817",
+      "community": {
+        "want": 10,
+        "have": 120
+      }
+    },
+    {
+      "country": "Germany",
+      "year": "2009",
+      "format": [
+        "DVD",
+        "PAL"
+      ],
+      "label": [
+        "Grand Hotel Van Cleef",
+        "Grand Hotel Van Cleef",
+        "Grand Hotel Van Cleef",
+        "Indigo"
+      ],
+      "type": "master",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "id": 1991695,
+      "barcode": [
+        "4047179460385",
+        "LC 12764",
+        "manufactured by optimal media production D985164-01 INDIGO DV 94603-8",
+        "manufactured by optimal media production D985164-02 INDIGO DV 94603-8 D985164-02",
+        "ifpi L573",
+        "ifpi L572",
+        "IFPI 9738",
+        "IFPI 9734"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1991695,
+      "master_url": "https://api.discogs.com/masters/1991695",
+      "uri": "/master/1991695-Kettcar-Live-Auf-Kampnagel-543-AM",
+      "catno": "GHvC 045",
+      "title": "Kettcar - Live Auf Kampnagel - 5:43 A.M.",
+      "thumb": "https://i.discogs.com/pvjOeE-e1LlrFY_-9_GsX-pp5ANaBVDjUmoqZDKk64I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY3/NzktMTQwNzM0Mjg3/NC03ODc2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Tx_Wn8yHix5ZLxGRlEJhpziN3J-Yx5CYpRoqhm_BusU/rs:fit/g:sm/q:90/h:848/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY3/NzktMTQwNzM0Mjg3/NC03ODc2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1991695",
+      "community": {
+        "want": 9,
+        "have": 96
+      }
+    },
+    {
+      "country": "Germany",
+      "year": "2005",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Grand Hotel Van Cleef",
+        "Indigo",
+        "Optimal Media Production",
+        "M.O.B. Studio",
+        "M.O.B. Studio",
+        "M.O.B. Studio",
+        "Monoposto Mastering"
+      ],
+      "type": "master",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 46058,
+      "barcode": [
+        "4 015698 529821",
+        "LC 12764",
+        "INDIGO CD 5298-2 A519906-01 manufactured by optimal media production",
+        "ifpi L573",
+        "IFPI 9712",
+        "INDIGO CD 5298-2 A519906-01 manufactured by optimal media production",
+        "ifpi L573",
+        "IFPI 9726"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 46058,
+      "master_url": "https://api.discogs.com/masters/46058",
+      "uri": "/master/46058-Kettcar-Von-Spatzen-Und-Tauben-D%C3%A4chern-Und-H%C3%A4nden",
+      "catno": "GHvC 017",
+      "title": "Kettcar - Von Spatzen Und Tauben, D\u00e4chern Und H\u00e4nden",
+      "thumb": "https://i.discogs.com/jfvxcErCpGsxCRBE9Q0BYXlXGWtjIXl0-Agt8WgiRqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjM5/MS0xNDEzMTM2NTU1/LTU3NzAuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/aQxn42eSivfSOlfIUKE-MsqDKuvXi6zwWzkM1yTnsIQ/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjM5/MS0xNDEzMTM2NTU1/LTU3NzAuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/masters/46058",
+      "community": {
+        "want": 143,
+        "have": 2953
+      }
+    },
+    {
+      "country": "Germany",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Grand Hotel Van Cleef",
+        "Indigo",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH",
+        "Grand Hotel Van Cleef"
+      ],
+      "type": "master",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 1643454,
+      "barcode": [
+        "4015698471915",
+        "Gute Laune ungerecht verteilt BJ86936-01 A1 HL",
+        "Jeder geht zu sich BJ86936-01 B1 HL",
+        "Der Zwerg reinigt die Kittel BJ86936-02 C1 HL",
+        "PROST BRITTA BJ86936-02 D1 HL",
+        "Die T\u00fcr mu\u00df zu BJ86936-03 E1 HL",
+        "R\u00fcmp\u00fcmp\u00fcm BJ86936-03 F1 HL"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1643454,
+      "master_url": "https://api.discogs.com/masters/1643454",
+      "uri": "/Kettcar-Und-Das-Geht-So/master/1643454",
+      "catno": "GHvC 151",
+      "title": "Kettcar - ...Und Das Geht So",
+      "thumb": "https://i.discogs.com/qTSb5rGie_zXcGt3ul1yX7w6Z-C4fggp_ylpvSbtHIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/NTA0LTE1NzQ3ODYw/ODYtNzc3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/oJIAghbThzbS_ceIQKMcxYMua3Xl5c9dRgjWW-3MS4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDUx/NTA0LTE1NzQ3ODYw/ODYtNzc3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1643454",
+      "community": {
+        "want": 82,
+        "have": 829
+      }
+    }
+  ]
+}

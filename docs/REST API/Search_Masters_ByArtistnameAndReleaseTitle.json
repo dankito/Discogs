@@ -1,0 +1,93 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 50,
+    "items": 2,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "id": 1144179,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1144179,
+      "master_url": "https://api.discogs.com/masters/1144179",
+      "uri": "/master/1144179-Lorde-Green-Light",
+      "catno": "none",
+      "title": "Lorde - Green Light",
+      "thumb": "https://i.discogs.com/8ri4B8JaawUQPi_iD5RWpta09cObqCz1ron3AJFX9rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTYy/OTMtMTQ4ODQ4ODcz/My01NDk2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/YHCOyBudmzOE4t4eYTveDBBSEHWNG7n1q_vC01_vkA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTYy/OTMtMTQ4ODQ4ODcz/My01NDk2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1144179",
+      "community": {
+        "want": 19,
+        "have": 29
+      }
+    },
+    {
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "Universal Music",
+        "Universal Music NZ Ltd.",
+        "Universal Music NZ Ltd.",
+        "Ducky Donath Music",
+        "EMI Blackwood Music Inc.",
+        "Songs Music Publishing",
+        "Sony/ATV Songs LLC"
+      ],
+      "type": "master",
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "id": 1227827,
+      "barcode": [
+        "602557716894"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1227827,
+      "master_url": "https://api.discogs.com/masters/1227827",
+      "uri": "/Lorde-Green-Light-Chromeo-Remix/master/1227827",
+      "catno": "none",
+      "title": "Lorde - Green Light (Chromeo Remix)",
+      "thumb": "https://i.discogs.com/0DyDiubBfuUxgsgQLeRg2mv7AmfoLtvxkRL9sSK9yKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/NzM0LTE1MDM2NDgx/MzQtNjU2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EiJW7Y4YY9veXGy1QIj26kM4nDHrcjqNVlj8973SIwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/NzM0LTE1MDM2NDgx/MzQtNjU2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/masters/1227827",
+      "community": {
+        "want": 0,
+        "have": 0
+      }
+    }
+  ]
+}
