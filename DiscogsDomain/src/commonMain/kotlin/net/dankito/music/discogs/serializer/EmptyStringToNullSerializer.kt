@@ -1,4 +1,4 @@
-package net.dankito.music.discogs.restapi.serializers
+package net.dankito.music.discogs.serializer
 
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.descriptors.PrimitiveKind

@@ -48,6 +48,8 @@ kotlin {
 
     sourceSets {
         commonMain.dependencies {
+            implementation(project(":DiscogsDomain"))
+
             implementation(libs.kotlinx.coroutines)
             implementation(libs.kotlinx.serialization.json)
 

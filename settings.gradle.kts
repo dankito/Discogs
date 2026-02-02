@@ -5,5 +5,6 @@ plugins {
 rootProject.name = "Discogs"
 
 
+include("DiscogsDomain")
 include("DiscogsDumpReader")
 include("DiscogsRestApiClient")

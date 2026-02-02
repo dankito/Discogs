@@ -1,4 +1,4 @@
-package net.dankito.music.discogs.restapi.dto
+package net.dankito.music.discogs.model
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable

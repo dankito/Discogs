@@ -1,6 +1,6 @@
 package net.dankito.music.discogs.restapi
 
-import net.dankito.music.discogs.restapi.dto.Artist
+import net.dankito.music.discogs.model.Artist
 import net.dankito.web.client.ContentTypes
 import net.dankito.web.client.KtorWebClient
 import net.dankito.web.client.RequestParameters
