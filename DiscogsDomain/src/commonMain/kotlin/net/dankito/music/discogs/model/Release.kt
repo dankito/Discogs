@@ -3,6 +3,7 @@ package net.dankito.music.discogs.model
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import net.dankito.datetime.OffsetDateTime
+import net.dankito.music.discogs.serializer.ThumbnailUrlToNullSerializer
 
 @Serializable
 data class Release(
@@ -41,6 +42,7 @@ data class Release(
     val trackList: List<Track> = emptyList(),
 
     @SerialName("thumb")
+    @Serializable(with = ThumbnailUrlToNullSerializer::class)
     val thumbnail: String? = null,
 
     val images: List<Image> = emptyList(),

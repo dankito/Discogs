@@ -2,6 +2,7 @@ package net.dankito.music.discogs.model
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
+import net.dankito.music.discogs.serializer.ThumbnailUrlToNullSerializer
 
 @Serializable
 data class SearchResultItem(
@@ -10,8 +11,10 @@ data class SearchResultItem(
     val title: String,
 
     @SerialName("thumb")
+    @Serializable(with = ThumbnailUrlToNullSerializer::class)
     val thumbnail: String? = null,
     @SerialName("cover_image")
+    @Serializable(with = ThumbnailUrlToNullSerializer::class)
     val coverImage: String? = null,
 
 
