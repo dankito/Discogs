@@ -46,6 +46,14 @@ class DiscogsApiClientTest {
         assertThat(artist.members.size).isGreaterThanOrEqualTo(5)
     }
 
+    @Test
+    fun getArtistReleases() = runTest {
+        val response = underTest.getAllArtistReleases(116345)
+
+        val result = assertSuccess(response)
+        assertThat(result.releases.size).isGreaterThanOrEqualTo(600) // assert that all pages have been retrieved
+    }
+
 
     @Test
     fun getMaster() = runTest {

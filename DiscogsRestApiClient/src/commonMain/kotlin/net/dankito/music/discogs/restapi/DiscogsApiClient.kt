@@ -1,6 +1,8 @@
 package net.dankito.music.discogs.restapi
 
 import net.dankito.music.discogs.model.Artist
+import net.dankito.music.discogs.model.ArtistReleasesResult
+import net.dankito.music.discogs.model.ArtistReleasesResultItem
 import net.dankito.music.discogs.model.Master
 import net.dankito.music.discogs.model.Release
 import net.dankito.music.discogs.model.SearchResult
@@ -18,11 +20,48 @@ open class DiscogsApiClient(
     private val baseUrl: String = "https://api.discogs.com"
 ) {
 
+    companion object {
+        const val MaxItemsPerPage = 500
+    }
+
+
     suspend fun getArtist(artistId: Int): WebClientResult<Artist> =
         get("/artists/$artistId")
 
     suspend fun getArtistAsJson(artistId: Int): WebClientResult<String> =
         get("/artists/$artistId")
+
+
+    suspend fun getAllArtistReleases(artistId: Int, sortDescending: Boolean = true): WebClientResult<ArtistReleasesResult> {
+        val releases = mutableListOf<ArtistReleasesResultItem>()
+        var page = 1
+        val itemsPerPage = MaxItemsPerPage
+
+        var response = getArtistReleases(artistId, sortDescending, page, itemsPerPage)
+
+        while (response.successfulAndBodySet && releases.size < response.body!!.pagination.items) {
+            releases.addAll(response.body!!.releases)
+
+            if (releases.size >= response.body!!.pagination.items) {
+                break
+            }
+
+            response = getArtistReleases(artistId, sortDescending, ++page, itemsPerPage)
+        }
+
+        return if (response.successfulAndBodySet) response.copyWithBody(ArtistReleasesResult(response.body!!.pagination, releases))
+                else response
+    }
+
+    suspend fun getArtistReleases(artistId: Int, sortDescending: Boolean = true, page: Int = 1, itemsPerPage: Int = MaxItemsPerPage): WebClientResult<ArtistReleasesResult> =
+        get("/artists/$artistId/releases", buildMap {
+            put("sort", "year") // year, title or format
+            put("sort_order", if (sortDescending) "desc" else "asc")
+
+            put("page", page)
+            put("per_page", itemsPerPage)
+        })
+
 
     suspend fun getMaster(masterId: Int): WebClientResult<Master> =
         get("/masters/$masterId")
